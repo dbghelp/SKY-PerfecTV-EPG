@@ -796,11 +796,6 @@
 		<display-name>スカパー！プロモ599</display-name>
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/599.gif" />
 	</channel>
-	<programme channel="BS193" start="20260114112000 +0900" stop="20260114130000 +0900">
-		<title>ＴＡＸｉ(4)（字幕版）</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/40334/L_de7d37d107c64749a053f0d18e64556a_20251105115140208.jpg" />
-	</programme>
 	<programme channel="BS193" start="20260114130000 +0900" stop="20260114144500 +0900">
 		<title>ＴＡＸｉ　ダイヤモンド・ミッション（字幕版）</title>
 		<desc />
@@ -1215,21 +1210,6 @@
 		<title>ブルータリスト（字幕版）</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/27600/L_2379dfcc8ec941c0bd82b62f3d2a910e_20250903103702036.jpg" />
-	</programme>
-	<programme channel="BS201" start="20260114100000 +0900" stop="20260114120000 +0900">
-		<title>ＭＵＳＩＣ　ＢＡＴＯＮ　ｖｏｌ．１　杏子×山崎まさよし×松室政哉</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46494/L_986c9b08114f482e93a496ebdeddf7e3_20251205153142330.jpg" />
-	</programme>
-	<programme channel="BS201" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>拳銃無宿　＃７９[吹]【ひるドラマ】【Ｓ・マックイーン　ＦＩＮＡＬ】</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/24763/L_39f4207d2be3446fa8c79b6523558d78_20250812112021548.jpg" />
-	</programme>
-	<programme channel="BS201" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>拳銃無宿　＃８０[吹]【ひるドラマ】【Ｓ・マックイーン　ＦＩＮＡＬ】</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/24765/L_e5bf7e0fb14c472a8a06febbe5d4ddf3_20250812112119331.jpg" />
 	</programme>
 	<programme channel="BS201" start="20260114130000 +0900" stop="20260114154500 +0900">
 		<title>[映]動乱【ザ・レジェンド：吉永小百合】</title>
@@ -1726,16 +1706,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/42369/L_5a381b243e674b378985848e082f1bbc_20251112173931559.jpg" />
 	</programme>
-	<programme channel="BS252" start="20260114093000 +0900" stop="20260114120000 +0900">
-		<title>[映]空軍大戦略</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/20775/L_e7f0c237063c48d291f91c729066dfcb_20250710105402869.jpg" />
-	</programme>
-	<programme channel="BS252" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>王女未央-BIOU- #41（全54話）</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/44323/L_8ff20faa1e214e02bc7b94850e897ad0_20251201144601777.jpg" />
-	</programme>
 	<programme channel="BS252" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>みみより生活情報</title>
 		<desc />
@@ -2195,16 +2165,6 @@
 		<title>[映]マリッジリング</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/24147/L_2d65acfd18b64de5bf23cbc336d55dda_20250807095601080.jpg" />
-	</programme>
-	<programme channel="BS255" start="20260114110000 +0900" stop="20260114123000 +0900">
-		<title>探偵学園Ｑ（全11話）#1</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/27627/L_1b49d527658040078c40c8cd768789a6_20250903104818484.jpg" />
-	</programme>
-	<programme channel="BS255" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>【無料】生活情報の時間</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/255.gif" />
 	</programme>
 	<programme channel="BS255" start="20260114130000 +0900" stop="20260114150500 +0900">
 		<title>広域警察２（主演・高橋克典）【おとなのサスペンス劇場】</title>
@@ -3451,16 +3411,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/35586/L_963db48effa8462eb40d40748cf06997_20251002153055268.jpg" />
 	</programme>
-	<programme channel="CS219" start="20260114113000 +0900" stop="20260114114500 +0900">
-		<title>【無料】みうらじゅんのザ・チープ＃１３「終活」＜オリジナル番組＞</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6406/L_9c7216053e324d1d888b611532658148_20250509151438438.JPG" />
-	</programme>
-	<programme channel="CS219" start="20260114114500 +0900" stop="20260114125500 +0900">
-		<title>韓◆総理と私＃１９[字]　▼ユナ（少女時代）、イ・ボムス</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/28983/L_3db1b23067284c50b38a6f284b5d9f37_20250909124901953.jpg" />
-	</programme>
 	<programme channel="CS219" start="20260114125500 +0900" stop="20260114140000 +0900">
 		<title>韓◆総理と私＃２０[終][字]　▼ユナ（少女時代）、イ・ボムス</title>
 		<desc />
@@ -4176,16 +4126,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/47396/L_67a6d1383f124624b59ed06bc2c61ad7_20251209145358690.jpg" />
 	</programme>
-	<programme channel="CS223" start="20260114100000 +0900" stop="20260114120000 +0900">
-		<title>[解][字]外科医鳩村周五郎６　血塗られた挑戦状Ⅱ【船越英一郎主演サスペンス】</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/12259/L_4b7eb347c6d945f2b58890e50afb80a5_20250604100041514.jpg" />
-	</programme>
-	<programme channel="CS223" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>インフォメーション</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/223.gif" />
-	</programme>
 	<programme channel="CS223" start="20260114123000 +0900" stop="20260114143000 +0900">
 		<title>[字]諏訪のスゴ腕警察医２【高橋英樹主演】◆連日12:30より２時間サスペンス</title>
 		<desc />
@@ -4826,11 +4766,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/18962/L_e715b67d4ce94a078c861849f4aa0fe1_20250704094308248.jpg" />
 	</programme>
-	<programme channel="CS227" start="20260114111000 +0900" stop="20260114130000 +0900">
-		<title>四十挺の拳銃※ウエスタンＲ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46523/L_84a6725e8e3f46ce838daa9da48dc7d0_20251205155801537.jpg" />
-	</programme>
 	<programme channel="CS227" start="20260114130000 +0900" stop="20260114145000 +0900">
 		<title>（吹）ザ・ガーディアン／守護者</title>
 		<desc />
@@ -5295,11 +5230,6 @@
 		<title>レディ・バード [PG12]</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46501/L_3b915503cf3547f092c30e75a57d500e_20251205153451256.jpg" />
-	</programme>
-	<programme channel="CS240" start="20260114104500 +0900" stop="20260114130000 +0900">
-		<title>グラン・トリノ【日本語吹替版】◆監督・主演：クリント・イーストウッド◆</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/22565/L_bb073d129ff1439789d0b7009b9ce89f_20250804102307304.jpg" />
 	</programme>
 	<programme channel="CS240" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>インフォメーション</title>
@@ -5770,21 +5700,6 @@
 		<title>【無料】ムービープラスのおすすめ番組</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/240.gif" />
-	</programme>
-	<programme channel="BS242" start="20260114090000 +0900" stop="20260114120000 +0900">
-		<title>バドミントン S/Jリーグ2025 一宮大会 BIPROGY×金沢学院クラブ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/42235/L_7262f1b4052f4b878f9e6972765d5a0a_20251112120516297.JPG" />
-	</programme>
-	<programme channel="BS242" start="20260114120000 +0900" stop="20260114124500 +0900">
-		<title>【45分】ラグビーリーグワン2025-26 D1 第4節 トヨタ×BR東京</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail/image/18795560/L_BC890098835857_1124cad7882d4df9b09a6075bf0e1426_20251223152527267.jpg" />
-	</programme>
-	<programme channel="BS242" start="20260114124500 +0900" stop="20260114130000 +0900">
-		<title>[無料]【白銀の頂へ！】FISワールドカップ2025/26 ナビ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/4738/L_de3405e24c894bc28c00d570cbffe58e_20250507171646588.jpg" />
 	</programme>
 	<programme channel="BS242" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>[初]原田伸郎のめざせパーゴルフ3 #1380【ハッピーゴルフアワー】</title>
@@ -6826,11 +6741,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/47590/L_7fa0602002e042b992a98fc71c472951_20251209171552454.jpg" />
 	</programme>
-	<programme channel="BS244" start="20260114110000 +0900" stop="20260114123000 +0900">
-		<title>高校バスケ ニューイヤーカップ2026 男子 #8 中部大第一×八王子</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46026/L_ce69f935919b4727bd4a94f73743ccf1_20251204134616402.jpg" />
-	</programme>
 	<programme channel="BS244" start="20260114123000 +0900" stop="20260114133000 +0900">
 		<title>【世界一過酷なラリー】ダカールラリー2026 ステージ8(1/12)</title>
 		<desc />
@@ -7720,11 +7630,6 @@
 		<title>【2025シーズン一挙放送！】ブエルタ・ア・エスパーニャ2025 第2ステージ</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/4743/L_6f89ab419d604321aba5becf150e612f_20250507172037605.jpg" />
-	</programme>
-	<programme channel="CS250" start="20260114103000 +0900" stop="20260114130000 +0900">
-		<title>[生][ボウリング]io.LEAGUE 2026 DAY3 PART1</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/48405/L_b1b221853a6a4726be14c05234ba0d14_20251215132435272.jpg" />
 	</programme>
 	<programme channel="CS250" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>インフォメーション</title>
@@ -8680,11 +8585,6 @@
 		<title>パーフェクトボウリング(2025)第18回MKチャリティカップ(5)</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13538/L_53f9e9711f834bb6b5adf28152ce9811_20250605175113415.jpg" />
-	</programme>
-	<programme channel="CS254" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>インフォメーション</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/36674/L_9bd273dd7c154840ade3b1aad7460db1_20251006103031137.jpg" />
 	</programme>
 	<programme channel="CS254" start="20260114120000 +0900" stop="20260114143000 +0900">
 		<title>ファイターズ新人合同自主トレ2026 (1.11鎌スタ)</title>
@@ -10121,16 +10021,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/48234/L_764d4237f29b47e7a9f8584165003634_20251211112331323.png" />
 	</programme>
-	<programme channel="CS262" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>インフォメーション</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/7307/L_8523a478b39e46999290db8463249d5d_20250513120022337.jpg" />
-	</programme>
-	<programme channel="CS262" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>ＳＨＯＷ ＤＯＷＮ ＃１ 谷原秀人ｖｓ阿久津未来也（前半）</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/19367/L_9084364beb034baa9a516dfbcffde439_20250704132923642.jpg" />
-	</programme>
 	<programme channel="CS262" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>インフォメーション</title>
 		<desc />
@@ -11211,16 +11101,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/7329/L_740f00ee82e04f93977b1f7a6bd586f3_20250513121813221.jpg" />
 	</programme>
-	<programme channel="CS800" start="20260114093000 +0900" stop="20260114120000 +0900">
-		<title>若手ゴルファー大会！マイナビ ネクストヒロインゴルフツアー2024 第5戦 後編</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/425/L_c868d570b8bc4fb58383d7ca8458aa6f_20250117155034784.jpg" />
-	</programme>
-	<programme channel="CS800" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>[無]ホッとな☆お買い物情報</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/388/L_7e7707d5f6004d82882cd69ec2a69e68_20250117140015067.jpg" />
-	</programme>
 	<programme channel="CS800" start="20260114123000 +0900" stop="20260114145000 +0900">
 		<title>KLPGA韓国女子プロゴルフツアー2025　第22戦　最終日（日本語実況解説）</title>
 		<desc />
@@ -11800,21 +11680,6 @@
 		<title>イチ推し！ホークスTV #8</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/1577/L_ec51cc368fba4b81bbfdec229b464245_20250321172001298.jpg" />
-	</programme>
-	<programme channel="BS191" start="20260114110000 +0900" stop="20260114115000 +0900">
-		<title>アンジェラベイビー主演「摩天楼のモンタージュ～Ｈｏｒｉｚｏｎ　Ｔｏｗｅｒ～」　＃６　リン・モンユー編（下）（字幕版）</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/44833/L_e43eeb21dd3f4be78ea485e66addb0ea_20251202113516371.jpg" />
-	</programme>
-	<programme channel="BS191" start="20260114115000 +0900" stop="20260114120000 +0900">
-		<title>ＷＯＷＯＷ　ＭＵＳＩＣ　ＢＲＥＡＫ　＃３６８</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/10960/L_59c96d1c7e6a44e59130fba421f266c8_20250603093457683.jpg" />
-	</programme>
-	<programme channel="BS191" start="20260114120000 +0900" stop="20260114124500 +0900">
-		<title>マーサー教授の殺人事件簿　＃１　ウソつきな記憶</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/44891/L_ade68ea5cefc41a5992da456ac8bff1c_20251202131649397.jpg" />
 	</programme>
 	<programme channel="BS191" start="20260114124500 +0900" stop="20260114133000 +0900">
 		<title>マーサー教授の殺人事件簿　＃２　不完全犯罪</title>
@@ -12960,21 +12825,6 @@
 		<title>ＵＥＦＡチャンピオンズリーグマガジン　リーグフェーズ　Ｍａｔｃｈｄａｙ　７　Ｐｒｅｖｉｅｗ</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/192.gif" />
-	</programme>
-	<programme channel="BS256" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>ふしぎの国　アンフィビア#11[ニ]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/5159/L_0c2a40045f8b4236b1fb8321e1c22fbc_20250508115831068.jpg" />
-	</programme>
-	<programme channel="BS256" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>ウェイバリー通りのウィザードたち#5[ニ]</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/256.gif" />
-	</programme>
-	<programme channel="BS256" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>ウェイバリー通りのウィザードたち#6[ニ]</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/256.gif" />
 	</programme>
 	<programme channel="BS256" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>エレクトリック・ブルーム　～ガールズバンド・ストーリー#1[ニ]</title>
@@ -14211,11 +14061,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/5313/L_78f3ee84a5884b89b1485c15b3494820_20250508134452037.jpg" />
 	</programme>
-	<programme channel="CS296" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>橋田壽賀子ドラマ「渡る世間は鬼ばかり」(第10シリーズ) #26[字]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/30379/L_34a7bfc6ba844a6680b41190c2b6cc90_20250929172028104.JPG" />
-	</programme>
 	<programme channel="CS296" start="20260114120000 +0900" stop="20260114134000 +0900">
 		<title>十津川警部シリーズ「寝台特急あさかぜ殺人事件」[字]</title>
 		<desc />
@@ -15005,16 +14850,6 @@
 		<title>【無料】インフォメーション2026年1月</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/296.gif" />
-	</programme>
-	<programme channel="CS297" start="20260114111000 +0900" stop="20260114120000 +0900">
-		<title>3年B組金八先生(第6シリーズ) #13[字]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/30566/L_a2c45d5fae8e42e4afae4d92a1a4fc30_20250929172239262.jpg" />
-	</programme>
-	<programme channel="CS297" start="20260114120000 +0900" stop="20260114125000 +0900">
-		<title>[新]中国ドラマ「時間の都市～ロマンスはいつも予想外～」ノーカット字幕版 #1</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/45502/L_3249d6ef269a484787be07bc10063d43_20251203110256149.jpg" />
 	</programme>
 	<programme channel="CS297" start="20260114125000 +0900" stop="20260114134000 +0900">
 		<title>中国ドラマ「時間の都市～ロマンスはいつも予想外～」ノーカット字幕版 #2</title>
@@ -15981,11 +15816,6 @@
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/297.gif" />
 	</programme>
-	<programme channel="CS298" start="20260114110500 +0900" stop="20260114125000 +0900">
-		<title>100の資格を持つ女3 風薫る水郷・老舗の醤油蔵に呪いの連続殺人！！</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/9447/L_772a1db3a6c34013b9c1f4076febe089_20250530135645920.jpg" />
-	</programme>
 	<programme channel="CS298" start="20260114125000 +0900" stop="20260114134000 +0900">
 		<title>時効警察 #8</title>
 		<desc />
@@ -16851,16 +16681,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/17095/L_d8713f5e5dab4d16be202cdc8df8cb0a_20250701165219911.jpg" />
 	</programme>
-	<programme channel="CS299" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>ぶらぶら町中華 #59・60</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/4917/L_9ba5525cfb204a78a6099ebc29a7cc16_20250508095327278.jpg" />
-	</programme>
-	<programme channel="CS299" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>四つの嘘 #9[終]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/22226/L_681c5bfe146f4e218537a33a117f9d75_20250801145705042.jpg" />
-	</programme>
 	<programme channel="CS299" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>[新]警部補 矢部謙三2（2013） #1</title>
 		<desc />
@@ -17545,11 +17365,6 @@
 		<title>ぶらぶら町中華 #17・18</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/4917/L_9ba5525cfb204a78a6099ebc29a7cc16_20250508095327278.jpg" />
-	</programme>
-	<programme channel="CS300" start="20260114113000 +0900" stop="20260114123000 +0900">
-		<title>ミス・シャーロック／Miss Sherlock #6</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46222/L_4ddde39a031e461384a6927331e12424_20251205111233240.jpg" />
 	</programme>
 	<programme channel="CS300" start="20260114123000 +0900" stop="20260114141500 +0900">
 		<title>【字】韓国バラエティ番組「パク・ボゴムのカンタービレ」 #3</title>
@@ -18485,21 +18300,6 @@
 		<title>日テレ Drama Soundtrack vol.1</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/300.gif" />
-	</programme>
-	<programme channel="CS301" start="20260114111500 +0900" stop="20260114115500 +0900">
-		<title>【韓】悪い女、善い女 #95</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/23845/L_fd6cab2aae4248d688e203a70ad70a6c_20250806112335368.jpg" />
-	</programme>
-	<programme channel="CS301" start="20260114115500 +0900" stop="20260114123500 +0900">
-		<title>【韓】悪い女、善い女 #96</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/23845/L_fd6cab2aae4248d688e203a70ad70a6c_20250806112335368.jpg" />
-	</programme>
-	<programme channel="CS301" start="20260114123500 +0900" stop="20260114130500 +0900">
-		<title>インフォメーション</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/301.gif" />
 	</programme>
 	<programme channel="CS301" start="20260114130500 +0900" stop="20260114135000 +0900">
 		<title>【韓】愛よ、お願い #31</title>
@@ -19491,16 +19291,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13412/L_dbf097628fc84759a297e2fa4f390138_20250605164032650.jpg" />
 	</programme>
-	<programme channel="CS305" start="20260114110000 +0900" stop="20260114123000 +0900">
-		<title>ＢＳ日本のうた　＃２９７</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/11080/L_979a4af53e7f4d41a740481ca3f4e77e_20250603101108254.jpg" />
-	</programme>
-	<programme channel="CS305" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>世界入りにくい居酒屋　チリ　サンティアゴ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/11555/L_7ce9989fa8ea49ab8a8e904dc7d1267d_20250603125616496.jpg" />
-	</programme>
 	<programme channel="CS305" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>[新]日本初◆中国ドラマ「春花焔～Kill Me Love Me～」＃２６＜字幕＞</title>
 		<desc />
@@ -20270,21 +20060,6 @@
 		<title>中国ドラマ「華の出陣～麗将・阿麦の仇討～」＃２３＜字幕／全３６話＞</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/11412/L_0a78acd0766e489685256d7c006e020a_20250603115409847.jpg" />
-	</programme>
-	<programme channel="CS307" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>ゲームセンターCX　#392　「ときめきメモリアル Girl's Side」</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/30144/L_5afb889edac64e2cb00fe2ed135b4746_20250926152840438.jpg" />
-	</programme>
-	<programme channel="CS307" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>寺門ジモンの肉専門チャンネル　#133「矢澤チキン」</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/8779/L_f95dad0c37104c97a75f68f23b2a08ae_20250528154047917.jpg" />
-	</programme>
-	<programme channel="CS307" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>おトクな時間</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/30094/L_2e8a18d4e05840819609fc55e9419131_20250926120443932.jpg" />
 	</programme>
 	<programme channel="CS307" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>THEわれめDEポン 24時間生スペシャル2025（1時間Ver.）Part3</title>
@@ -21120,16 +20895,6 @@
 		<title>ひらけ！パンドラの箱 アンタッチャブるTV　#19</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/8753/L_04f1c7cce3ca4f6c8406a555d4a06ffa_20250528124257747.jpg" />
-	</programme>
-	<programme channel="CS308" start="20260114103000 +0900" stop="20260114121000 +0900">
-		<title>西村京太郎サスペンス 十津川刑事の肖像3　危険な判決</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46919/L_93c1aaa0e43c463d902ac4e0dd97924c_20251209095346628.jpg" />
-	</programme>
-	<programme channel="CS308" start="20260114121000 +0900" stop="20260114131000 +0900">
-		<title>全領域異常解決室　#1　　不可解な異常事件に挑む本格ミステリードラマ！</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/8761/L_a0c4c5e636fe4afbbf0af17b3525e91c_20250528150220090.jpg" />
 	</programme>
 	<programme channel="CS308" start="20260114131000 +0900" stop="20260114140000 +0900">
 		<title>全領域異常解決室　#2　　不可解な異常事件に挑む本格ミステリードラマ！</title>
@@ -22180,11 +21945,6 @@
 		<title>寺門ジモンの肉専門チャンネル ミニ　#37　佐賀SP「ドライブイン鳥」</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/8780/L_b3577c1c0b2f40b2a7d7f61cc29c052e_20250528155137893.jpg" />
-	</programme>
-	<programme channel="CS309" start="20260114110000 +0900" stop="20260114121000 +0900">
-		<title>ダンス甲子園2025 夏の全国大会「沖縄大会」</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/43855/L_1641722f2cf04a25b4aee63b2e532a08_20251128140503568.JPG" />
 	</programme>
 	<programme channel="CS309" start="20260114121000 +0900" stop="20260114133000 +0900">
 		<title>ダンス甲子園2025 夏の全国大会「中国・四国大会」</title>
@@ -23370,11 +23130,6 @@
 		<title>GAMBA FAMILY #112</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/801.gif" />
-	</programme>
-	<programme channel="CS321" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>歌詞有り！人気ソロアーティスト vol.1～Mコレ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/47532/L_8b785618313e4427833f35c52ce1a5ac_20251209165054002.jpg" />
 	</programme>
 	<programme channel="CS321" start="20260114120000 +0900" stop="20260114170000 +0900">
 		<title>最新！カウントダウン TOP50</title>
@@ -24941,16 +24696,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/10944/L_2bf44a3207af415ea052121777fc02d7_20250603092846168.jpg" />
 	</programme>
-	<programme channel="CS324" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>情報番組</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/324.gif" />
-	</programme>
-	<programme channel="CS324" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>ジミ・ヘンドリックス：永遠のレジェンド</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/324.gif" />
-	</programme>
 	<programme channel="CS324" start="20260114130000 +0900" stop="20260114153000 +0900">
 		<title>ジャーニー：ライヴ・イン・マニラ2009</title>
 		<desc />
@@ -25896,11 +25641,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/19012/L_9e0e43f8fd3c41b888d3e06aae02f455_20250704100232813.jpg" />
 	</programme>
-	<programme channel="CS325" start="20260114083000 +0900" stop="20260114130000 +0900">
-		<title>J-POP最強カウントダウン50【歌詞入り】</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/325.gif" />
-	</programme>
 	<programme channel="CS325" start="20260114130000 +0900" stop="20260114153000 +0900">
 		<title>私たちのバラード ＃1</title>
 		<desc />
@@ -26420,11 +26160,6 @@
 		<title>夜の!最強エムオン! ヒッツ▼マカロニえんぴつ 他</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6996/L_3bb1095979c94f12a77636d408df51a1_20250512170551189.jpg" />
-	</programme>
-	<programme channel="CS329" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>くらしの情報</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/329.gif" />
 	</programme>
 	<programme channel="CS329" start="20260114120000 +0900" stop="20260114150000 +0900">
 		<title>オリコン演歌＆歌謡TOP30 #340</title>
@@ -27095,16 +26830,6 @@
 		<title>SONG FILE 歌える70年代ヒットソング　竹内まりや、郷ひろみ他</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/329.gif" />
-	</programme>
-	<programme channel="CS310" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>レバレッジ 詐欺師たちの償い[字]#11 ジャッカルの仕事</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/45238/L_7d49535a474b4195941ea9f8baacb947_20251202174130055.jpg" />
-	</programme>
-	<programme channel="CS310" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>レバレッジ 詐欺師たちの償い[字]#12 芝生の上の攻防</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/45238/L_7d49535a474b4195941ea9f8baacb947_20251202174130055.jpg" />
 	</programme>
 	<programme channel="CS310" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>[新][中]花ざかりのプリンセス[字]#1 第1話【ゾクゾクアワー（帯）】</title>
@@ -27986,16 +27711,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/45241/L_55482de4adcd47528aee1c497f5b1928_20251202174131979.jpg" />
 	</programme>
-	<programme channel="CS311" start="20260114100000 +0900" stop="20260114131000 +0900">
-		<title>ハドソン＆レックス～セントジョンズ警察シェパード犬刑事 6 [字] #7-9</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/34652/L_165d9e11469f44c78cf29d7b23de1bf3_20251002112619600.jpg" />
-	</programme>
-	<programme channel="CS311" start="20260114131000 +0900" stop="20260114131500 +0900">
-		<title>豆助のニッポンっていいな。 #10</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/12220/L_cab9f8688bef4c529efad64d50aca1f9_20250603174645968.jpg" />
-	</programme>
 	<programme channel="CS311" start="20260114131500 +0900" stop="20260114141000 +0900">
 		<title>エージェント・ハミルトン～裏切りのミッション～ [字] #5</title>
 		<desc />
@@ -28725,16 +28440,6 @@
 		<title>ダヴィデ＆レックス～ローマ警察シェパード犬刑事 2 [字] #6</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/5528/L_172ae728ede54509a47cb5a80e092173_20250508155837911.jpg" />
-	</programme>
-	<programme channel="CS312" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>NCIS ～ネイビー犯罪捜査班 シーズン11 #18[ニ]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/17435/L_fd611cb3f98a4f3fa23f9d5e3b55c548_20250702140234269.png" />
-	</programme>
-	<programme channel="CS312" start="20260114120000 +0900" stop="20260114130500 +0900">
-		<title>ゴースト ～天国からのささやき シーズン4 #19[ニ]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/45946/L_4d9e5200c13c46998dc514add50a2179_20251204095503950.jpg" />
 	</programme>
 	<programme channel="CS312" start="20260114130500 +0900" stop="20260114140000 +0900">
 		<title>ゴースト ～天国からのささやき シーズン4 #20「哀しみの愛憎劇」[ニ]</title>
@@ -29605,16 +29310,6 @@
 		<title>NCIS ～ネイビー犯罪捜査班 シーズン12 #9「吹雪の感謝祭」[字]</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/14078/L_2e1824e67d994834bd8003e883a4ba7a_20250606142701003.png" />
-	</programme>
-	<programme channel="CS314" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>インフォメーション</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/9578/L_c68a56f2734a4c8fa98b300915fa1c80_20250530160105459.jpg" />
-	</programme>
-	<programme channel="CS314" start="20260114120000 +0900" stop="20260114131500 +0900">
-		<title>［初］韓◆シークレット・ガーデン＃１２＜ノーカット版＞［字］</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/38155/L_9446d5a35631443c81c2cd688224f1a4_20251024154348774.jpg" />
 	</programme>
 	<programme channel="CS314" start="20260114131500 +0900" stop="20260114134500 +0900">
 		<title>インフォメーション</title>
@@ -31091,11 +30786,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/43504/L_97c3aa0d311d4e8d93d045965ef25977_20251125151543568.jpg" />
 	</programme>
-	<programme channel="CS317" start="20260114105000 +0900" stop="20260114123000 +0900">
-		<title>新商品発売～コンビニレストラン　[字][再]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/14069/L_109e4fc77f094c79aef57339d860be1e_20250606141036591.jpg" />
-	</programme>
 	<programme channel="CS317" start="20260114123000 +0900" stop="20260114134500 +0900">
 		<title>華麗な日々（原題）　#17　[字][再]</title>
 		<desc />
@@ -31831,16 +31521,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/47917/L_bdbe5fd600be4ec39bcf08dfa789aa49_20251210163956751.jpg" />
 	</programme>
-	<programme channel="CS318" start="20260114100000 +0900" stop="20260114120000 +0900">
-		<title>鋼鉄少女団 2 #11</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/28350/L_4efa7b2974b74c5b985472961a7aa09f_20250904145028921.jpg" />
-	</programme>
-	<programme channel="CS318" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>ユ・クイズ ON THE BLOCK 芸能人パート #1</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/318.gif" />
-	</programme>
 	<programme channel="CS318" start="20260114123000 +0900" stop="20260114134500 +0900">
 		<title>Mnet 30周年チャートショー #3 SHOW ME THE MONEY編</title>
 		<desc />
@@ -32530,21 +32210,6 @@
 		<title>驚きの土曜日 SAKURA&amp;KIM CHAEWON&amp;HUH YUNJIN(LE SSERAFIM) 出演回 (#235)</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/24399/L_5df89620f1804547b74088f64a5f8b47_20250807161402143.jpg" />
-	</programme>
-	<programme channel="CS290" start="20260114101500 +0900" stop="20260114114500 +0900">
-		<title>Music Revolution!（'19年雪組・東京・千秋楽）</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/47115/L_acf7f09371c44eb2b649a4d4f26c8d5d_20251209114039560.jpg" />
-	</programme>
-	<programme channel="CS290" start="20260114114500 +0900" stop="20260114120000 +0900">
-		<title>梅田芸術劇場公演情報番組 梅芸NAVI＃172</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/290.gif" />
-	</programme>
-	<programme channel="CS290" start="20260114120000 +0900" stop="20260114124500 +0900">
-		<title>タカラヅカニュース</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/35099/L_4d1c503d3e6047cc86db45d4625ca66e_20251002142114720.jpg" />
 	</programme>
 	<programme channel="CS290" start="20260114124500 +0900" stop="20260114133000 +0900">
 		<title>NOW ON STAGE＃720 星組公演『恋する天動説』『DYNAMIC NOVA』</title>
@@ -33416,16 +33081,6 @@
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/290.gif" />
 	</programme>
-	<programme channel="CS292" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>遠山の金さんVS女ねずみ #12</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/38660/L_08ac021a21944578a7e71ffe4238c8b9_20251030164447559.jpg" />
-	</programme>
-	<programme channel="CS292" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>剣客商売４ #1【お昼のスペシャルアワー】【特選！日替り時代劇】</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/27897/L_4524052593f7476f83b316183b278243_20250903161957875.jpg" />
-	</programme>
 	<programme channel="CS292" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>【無料】生活情報の時間《ワイド版》</title>
 		<desc />
@@ -34236,11 +33891,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/28024/L_3b190a260ede4b3cb087cc90c8c58c91_20250904095845431.jpg" />
 	</programme>
-	<programme channel="CS293" start="20260114105000 +0900" stop="20260114125000 +0900">
-		<title>[HV][字]保険調査員 蒲田吟子2　出演：泉ピン子</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/16070/L_98aeb96cf020437fbbbf8bfbcef13c06_20250625141101935.jpg" />
-	</programme>
 	<programme channel="CS293" start="20260114125000 +0900" stop="20260114145000 +0900">
 		<title>[HV][字]天才刑事・野呂盆六５　出演：橋爪功</title>
 		<desc />
@@ -34870,11 +34520,6 @@
 		<title>[HV]オーイシ×仲村の想い出アニソン同好会　第16回＜ゲスト：Machico＞</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/45253/L_cb435d8ebb024f3db04165e4c2b9e501_20251203105050426.jpg" />
-	</programme>
-	<programme channel="CS294" start="20260114093000 +0900" stop="20260114120000 +0900">
-		<title>家政婦は見た！１３　▼市原悦子、佐藤B作、吉行和子</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/15700/L_d13f784c3c0e4a91a69caa224ff03392_20250624155041098.jpg" />
 	</programme>
 	<programme channel="CS294" start="20260114120000 +0900" stop="20260114134500 +0900">
 		<title>韓◆秘密の扉＃１９[字]【ノーカット】　▼ハン・ソッキュ、イ・ジェフン</title>
@@ -35620,11 +35265,6 @@
 		<title>華◆癒やしの恋人～ロマンスの処方箋～＃１８[字]【ノーカット】　▼レオ・ロー</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/15675/L_86279d9270af4f2d88f1cc233abd29a7_20250624152136188.jpg" />
-	</programme>
-	<programme channel="CS295" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>インフォメーション</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/12694/L_b1c85dd490364510b7db0e809cacec63_20250604145428094.jpg" />
 	</programme>
 	<programme channel="CS295" start="20260114120000 +0900" stop="20260114133000 +0900">
 		<title>モンド21麻雀プロリーグ 第6回モンド21王座決定戦 #1</title>
@@ -36641,16 +36281,6 @@
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/295.gif" />
 	</programme>
-	<programme channel="BS236" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>[字]九龍ジェネリックロマンス #3,4</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/236.gif" />
-	</programme>
-	<programme channel="BS236" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>[字]逆転裁判 ～その「真実」、異議あり!～ #1,2</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/45659/L_3f4879eee79a4c06bc6d3e1a115305ae_20251203110443248.jpg" />
-	</programme>
 	<programme channel="BS236" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>[字]ルパン三世(PART2) デジタルリマスター版 #83,84</title>
 		<desc />
@@ -37505,16 +37135,6 @@
 		<title>出禁のモグラ #3</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/41909/L_d75a8c58049b450eb2d81b645f466c20_20251110125737387.jpg" />
-	</programme>
-	<programme channel="CS330" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>それいけ！アンパンマン[字] #1424</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/330.gif" />
-	</programme>
-	<programme channel="CS330" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>家庭教師ヒットマンREBORN![字] #15,16</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/48239/L_7b0a531d28504ed49f7c3bdf6848df82_20251211112901656.jpg" />
 	</programme>
 	<programme channel="CS330" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>赤ずきんチャチャ #67,68</title>
@@ -38455,21 +38075,6 @@
 		<title>家庭教師ヒットマンREBORN![字] #23,24</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/48239/L_7b0a531d28504ed49f7c3bdf6848df82_20251211112901656.jpg" />
-	</programme>
-	<programme channel="CS331" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>トムとジェリー (二)</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/7441/L_36006771878b42b7b649e08b4c5bada6_20250513135001900.jpg" />
-	</programme>
-	<programme channel="CS331" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>トムとジェリー (二)</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/7441/L_36006771878b42b7b649e08b4c5bada6_20250513135001900.jpg" />
-	</programme>
-	<programme channel="CS331" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>トムとジェリー ショー #71(二)</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/10424/L_dd5f549c8b96483fbfc77cf82ec1fa30_20250602105823335.jpg" />
 	</programme>
 	<programme channel="CS331" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>チキチキマシン猛レース #9</title>
@@ -40021,21 +39626,6 @@
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/331.gif" />
 	</programme>
-	<programme channel="CS333" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>グノーシア #13</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/34295/L_8e3795dda3324c12bb3a8b3241159b71_20251002092113884.jpg" />
-	</programme>
-	<programme channel="CS333" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>ロードス島戦記-英雄騎士伝- #20</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/47509/L_ceef5d8fada9486f93c27c2ff0fcee00_20251209161115733.jpg" />
-	</programme>
-	<programme channel="CS333" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>ガン×ソード #22</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/47440/L_cd5d804447b74538b39cbea8d3320512_20251209155532686.jpg" />
-	</programme>
 	<programme channel="CS333" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>勘違いの工房主 ～英雄パーティの元雑用係が、実は戦闘以外が…#11・#12 [終][字]</title>
 		<desc />
@@ -41161,16 +40751,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/47418/L_1e4dc76f44a54ff0a2a9a8d8b37efacf_20251209152637063.jpg" />
 	</programme>
-	<programme channel="CS340" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>【名車一挙】名車再生！：2004年 ミニ・クーパーS MC40(二)</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/8999/L_4360dd4494234e74a6fa306aabc6b73c_20250529161853074.JPG" />
-	</programme>
-	<programme channel="CS340" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>【名車一挙】名車再生！ケータハム・セブン(二)</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/22487/L_172cc9e99f5b4f359669e72489f8f728_20250804093510229.jpg" />
-	</programme>
 	<programme channel="CS340" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>インフォマーシャル(日)</title>
 		<desc />
@@ -42100,16 +41680,6 @@
 		<title>THE NAKED S10：挑戦と限界(二)</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/35602/L_e3b987edaa9c4d6194fdd78e93e5c2f4_20251002154017454.JPG" />
-	</programme>
-	<programme channel="CS341" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>インフォマーシャル(日)</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/9145/L_560b080ef95f440ba7a549afd51c7cb9_20250530101026223.jpg" />
-	</programme>
-	<programme channel="CS341" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>イルカ・ダイアリー：お気に入りの遊び(二)</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/21381/L_18da45ef146a443ba1d8f50f91f48ce0_20250724154645015.jpg" />
 	</programme>
 	<programme channel="CS341" start="20260114123000 +0900" stop="20260114133000 +0900">
 		<title>【ネイチャー特選】動物武器大全：噴射とにおい攻撃(二)</title>
@@ -43241,21 +42811,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/38206/L_62671e6a8c6549a2b1fde04b768aeb81_20251024183423418.JPG" />
 	</programme>
-	<programme channel="CS342" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>情報番組</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6489/L_150c6a5dbdc4457f8162abdc46488363_20250509161555080.jpg" />
-	</programme>
-	<programme channel="CS342" start="20260114120000 +0900" stop="20260114125500 +0900">
-		<title>未確認モンスターを追え！S1 #1 アメリカのネッシー[ニ] ◆世界の謎</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/48367/L_760e49d7ab8c4953ad14aa3a05eff929_20251212170348052.jpg" />
-	</programme>
-	<programme channel="CS342" start="20260114125500 +0900" stop="20260114130000 +0900">
-		<title>歴史の証言～あの日何が語られたのか～ #6（石原慎太郎）</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/29262/L_6ffbb78ab92841e7b9969c00bd978ff0_20250911171523721.jpg" />
-	</programme>
 	<programme channel="CS342" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>ザ・山男 S1 #1 マイナス50度の冬が来る[ニ]</title>
 		<desc />
@@ -43860,16 +43415,6 @@
 		<title>W・シャトナーの世界の怪奇現象S1 #13&amp;#14[字] ◆ミステリー：超常現象</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/42315/L_252613d5fc574c1f8ebb4cdd5516f1ee_20251112145947119.jpg" />
-	</programme>
-	<programme channel="CS343" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>獣医ミシェルの日常　１．５「旅立ち」[字]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/34950/L_21d2793ca35c46d8ab04259552be358e_20251002140827890.jpg" />
-	</programme>
-	<programme channel="CS343" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>獣医ミシェルの日常　９「牛のボート移送」[ニ]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/20691/L_ae970735080845a8afe851dd66c2a926_20250709125957462.jpg" />
 	</programme>
 	<programme channel="CS343" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>崩壊！なんでそうなるの？「橋の崩落」声：川田紳司[ニ]</title>
@@ -44666,11 +44211,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/44932/L_2a23bf66fe304a398b6c2aa4cf4a911d_20251202135345630.jpg" />
 	</programme>
-	<programme channel="CS349" start="20260114090000 +0900" stop="20260114120000 +0900">
-		<title>Morning　News</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/349.gif" />
-	</programme>
 	<programme channel="CS349" start="20260114120000 +0900" stop="20260114140000 +0900">
 		<title>Lunch　Update</title>
 		<desc />
@@ -45210,31 +44750,6 @@
 		<title>ミッドナイトニュース[字]</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/351.gif" />
-	</programme>
-	<programme channel="CS353" start="20260114113000 +0900" stop="20260114114500 +0900">
-		<title>ビジネストゥデイ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/29743/L_89b32b7d30ab4aa4861da03a5fd8bf96_20250925131012282.jpg" />
-	</programme>
-	<programme channel="CS353" start="20260114114500 +0900" stop="20260114120000 +0900">
-		<title>BBCスポーツ</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/353.gif" />
-	</programme>
-	<programme channel="CS353" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>ニュースデイ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/29741/L_a3970c5731654b29adc54a2d9d22f61c_20250925131010846.jpg" />
-	</programme>
-	<programme channel="CS353" start="20260114123000 +0900" stop="20260114124500 +0900">
-		<title>ビジネストゥデイ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/29743/L_89b32b7d30ab4aa4861da03a5fd8bf96_20250925131012282.jpg" />
-	</programme>
-	<programme channel="CS353" start="20260114124500 +0900" stop="20260114130000 +0900">
-		<title>BBCスポーツ(再)</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/353.gif" />
 	</programme>
 	<programme channel="CS353" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>ニュースデイ</title>
@@ -46911,16 +46426,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/29745/L_4d99ca87b9e74fdf9e53e425c11d4a1b_20250925131013654.jpg" />
 	</programme>
-	<programme channel="CS354" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>[ニ]ザ・ソース</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46596/L_c65388b75dff4102a812af8f34d65792_20251208115034573.jpg" />
-	</programme>
-	<programme channel="CS354" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>[ニ]CNN ニュースナイト</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46574/L_0aed950812a24c0d876080163fc47dc2_20251208115019237.jpg" />
-	</programme>
 	<programme channel="CS354" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>[ニ]ローラ・コーツ・ライブ</title>
 		<desc />
@@ -47911,16 +47416,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail/image/18668521/L_BC007949445306_d9534a33a042468e836215cc3cb23e38_20251209142701873.png" />
 	</programme>
-	<programme channel="BS251" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>押忍！東北つれつれ団 2 松島湾のハゼ釣り</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/37251/L_dc1f9d8777de4baf9722a03fc3fc9a83_20251008144902413.jpg" />
-	</programme>
-	<programme channel="BS251" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>ヘラブナギャラリー 厳寒期の釣り・総集編</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/20477/L_9d0e01e90ac84c0688ed174e710a89e4_20250708113359195.jpg" />
-	</programme>
 	<programme channel="BS251" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>魚種格闘技戦！ 285 常陸利根川リバーシーバス</title>
 		<desc />
@@ -48730,21 +48225,6 @@
 		<title>SALT X 30 鹿児島のサーフゲーム</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/43097/L_7352816d306347ec9b67e1e827c1e572_20251114122209338.jpg" />
-	</programme>
-	<programme channel="CS339" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>アバローのプリンセス　エレナ#29[二][字/日]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/5824/L_0152eba842174dd3ba0e86efe87eb5e6_20250509091250283.jpg" />
-	</programme>
-	<programme channel="CS339" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>リロ　アンド　スティッチ　ザ・シリーズ#7[二][字/日]</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/339.gif" />
-	</programme>
-	<programme channel="CS339" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>バンピリーナとバンパイアかぞく#60[二][字/日英]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6413/L_e8ce8740993741e19e880f65ce174cee_20250509151756136.jpg" />
 	</programme>
 	<programme channel="CS339" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>ドックはおもちゃドクター#8[二][字/日英]</title>
@@ -50371,21 +49851,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6413/L_e8ce8740993741e19e880f65ce174cee_20250509151756136.jpg" />
 	</programme>
-	<programme channel="CS363" start="20260114100000 +0900" stop="20260114115600 +0900">
-		<title>囲碁）[藤沢里菜特集]第29期 竜星戦</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6619/L_9f9c22ce484f4ce0b0ea8b549a8a201e_20250512111323568.png" />
-	</programme>
-	<programme channel="CS363" start="20260114115600 +0900" stop="20260114122500 +0900">
-		<title>将棋）石田直裕の将棋講座 第17、18回</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6563/L_559c8e350a42421d9d60e77f5a6ee06b_20250512095601975.png" />
-	</programme>
-	<programme channel="CS363" start="20260114122500 +0900" stop="20260114130000 +0900">
-		<title>将棋）大平武洋の将棋講座 第13～15回</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6563/L_559c8e350a42421d9d60e77f5a6ee06b_20250512095601975.png" />
-	</programme>
 	<programme channel="CS363" start="20260114130000 +0900" stop="20260114143800 +0900">
 		<title>将棋）第32期 銀河戦[セレクション]</title>
 		<desc />
@@ -51456,21 +50921,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6563/L_559c8e350a42421d9d60e77f5a6ee06b_20250512095601975.png" />
 	</programme>
-	<programme channel="BS234" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>[無]馬産地通信 #334[字]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/29627/L_86b62ec44ab04767b68a5eaaf1f7456f_20250924125338138.png" />
-	</programme>
-	<programme channel="BS234" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>競馬場の達人（カベポスター浜田順平） #599</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46205/L_4bd1514c6a504491bc9de79db4e23e90_20251205105253911.jpeg" />
-	</programme>
-	<programme channel="BS234" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>スタリオンライブラリー #75[字]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46214/L_aed6bc60578744bdabba74df616886ae_20251205110148849.jpg" />
-	</programme>
 	<programme channel="BS234" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>競馬年鑑（平成12年Ｐａｒｔ3） #89[字]</title>
 		<desc />
@@ -52255,16 +51705,6 @@
 		<title>ＧＣ番宣・ロゴ・カラーバー</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/234.gif" />
-	</programme>
-	<programme channel="CS055" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>モリリン　ＷＯＭＡ！　多層構造でぽかぽかアルミシート入りラグ</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/055.gif" />
-	</programme>
-	<programme channel="CS055" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>ＧＯ！ＧＯ！バリュー　ＪＳハートレーベル　コンフォートシューズ</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/055.gif" />
 	</programme>
 	<programme channel="CS055" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>完全なる天然水晶の世界　「貴煌」</title>
@@ -53091,16 +52531,6 @@
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/055.gif" />
 	</programme>
-	<programme channel="CS161" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>トロピカルマリア！フルーツデザート</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/161.gif" />
-	</programme>
-	<programme channel="CS161" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>純金アートコレクション</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/161.gif" />
-	</programme>
 	<programme channel="CS161" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>新谷酵素 酵素パワーを実感！</title>
 		<desc />
@@ -53901,11 +53331,6 @@
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/161.gif" />
 	</programme>
-	<programme channel="Ch.623" start="20260114112000 +0900" stop="20260114130000 +0900">
-		<title>[映]ＴＡＸｉ(4)（字幕版）[SS]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/40334/L_de7d37d107c64749a053f0d18e64556a_20251105115140208.jpg" />
-	</programme>
 	<programme channel="Ch.623" start="20260114130000 +0900" stop="20260114144500 +0900">
 		<title>[映]ＴＡＸｉ　ダイヤモンド・ミッション（字幕版）[SS]</title>
 		<desc />
@@ -54320,21 +53745,6 @@
 		<title>[映]ブルータリスト（字幕版）[R15+][SS]</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/27600/L_2379dfcc8ec941c0bd82b62f3d2a910e_20250903103702036.jpg" />
-	</programme>
-	<programme channel="Ch.625" start="20260114100000 +0900" stop="20260114120000 +0900">
-		<title>ＭＵＳＩＣ　ＢＡＴＯＮ　ｖｏｌ．１　杏子×山崎まさよし×松室政哉</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46494/L_986c9b08114f482e93a496ebdeddf7e3_20251205153142330.jpg" />
-	</programme>
-	<programme channel="Ch.625" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>拳銃無宿　＃７９[吹]【ひるドラマ】【スティーヴ・マックイーン　ＦＩＮＡＬ】</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/24763/L_39f4207d2be3446fa8c79b6523558d78_20250812112021548.jpg" />
-	</programme>
-	<programme channel="Ch.625" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>拳銃無宿　＃８０[吹]【ひるドラマ】【スティーヴ・マックイーン　ＦＩＮＡＬ】</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/24765/L_e5bf7e0fb14c472a8a06febbe5d4ddf3_20250812112119331.jpg" />
 	</programme>
 	<programme channel="Ch.625" start="20260114130000 +0900" stop="20260114154500 +0900">
 		<title>[映]動乱【ザ・レジェンド：吉永小百合】</title>
@@ -54830,16 +54240,6 @@
 		<title>キャロル・キング＆ジェイムス・テイラー：トルバドール・リユニオン</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/42369/L_5a381b243e674b378985848e082f1bbc_20251112173931559.jpg" />
-	</programme>
-	<programme channel="Ch.628" start="20260114113000 +0900" stop="20260114114500 +0900">
-		<title>【無料】みうらじゅんのザ・チープ＃１３「終活」＜オリジナル番組＞</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6406/L_9c7216053e324d1d888b611532658148_20250509151438438.JPG" />
-	</programme>
-	<programme channel="Ch.628" start="20260114114500 +0900" stop="20260114125500 +0900">
-		<title>韓◆総理と私＃１９[字]　▼ユナ（少女時代）、イ・ボムス</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/28983/L_3db1b23067284c50b38a6f284b5d9f37_20250909124901953.jpg" />
 	</programme>
 	<programme channel="Ch.628" start="20260114125500 +0900" stop="20260114140000 +0900">
 		<title>韓◆総理と私＃２０[終][字]　▼ユナ（少女時代）、イ・ボムス</title>
@@ -56301,16 +55701,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/35586/L_963db48effa8462eb40d40748cf06997_20251002153055268.jpg" />
 	</programme>
-	<programme channel="Ch.630" start="20260114093000 +0900" stop="20260114120000 +0900">
-		<title>[映]空軍大戦略</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/20775/L_e7f0c237063c48d291f91c729066dfcb_20250710105402869.jpg" />
-	</programme>
-	<programme channel="Ch.630" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>王女未央-BIOU- #41（全54話）</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/44323/L_8ff20faa1e214e02bc7b94850e897ad0_20251201144601777.jpg" />
-	</programme>
 	<programme channel="Ch.630" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>みみより生活情報</title>
 		<desc />
@@ -56770,11 +56160,6 @@
 		<title>[映]マリッジリング</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/24147/L_2d65acfd18b64de5bf23cbc336d55dda_20250807095601080.jpg" />
-	</programme>
-	<programme channel="Ch.631" start="20260114111000 +0900" stop="20260114130000 +0900">
-		<title>四十挺の拳銃※ウエスタンＲ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46523/L_84a6725e8e3f46ce838daa9da48dc7d0_20251205155801537.jpg" />
 	</programme>
 	<programme channel="Ch.631" start="20260114130000 +0900" stop="20260114145000 +0900">
 		<title>（吹）ザ・ガーディアン／守護者</title>
@@ -57240,11 +56625,6 @@
 		<title>レディ・バード [PG12]</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46501/L_3b915503cf3547f092c30e75a57d500e_20251205153451256.jpg" />
-	</programme>
-	<programme channel="Ch.632" start="20260114104500 +0900" stop="20260114130000 +0900">
-		<title>グラン・トリノ【日本語吹替版】◆監督・主演：クリント・イーストウッド◆</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/22565/L_bb073d129ff1439789d0b7009b9ce89f_20250804102307304.jpg" />
 	</programme>
 	<programme channel="Ch.632" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>インフォメーション</title>
@@ -57715,16 +57095,6 @@
 		<title>【無料】ムービープラスのおすすめ番組</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/9170/L_4dfc232930ae4ffbb805445496e61a0f_20250530102846591.jpg" />
-	</programme>
-	<programme channel="Ch.633" start="20260114100000 +0900" stop="20260114120000 +0900">
-		<title>[字]外科医鳩村周五郎６　血塗られた挑戦状Ⅱ【船越英一郎主演　サスペンス】</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/12259/L_4b7eb347c6d945f2b58890e50afb80a5_20250604100041514.jpg" />
-	</programme>
-	<programme channel="Ch.633" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>インフォメーション</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/633.gif" />
 	</programme>
 	<programme channel="Ch.633" start="20260114123000 +0900" stop="20260114143000 +0900">
 		<title>[字]諏訪のスゴ腕警察医２【高橋英樹主演】◆連日12:30より２時間サスペンス</title>
@@ -58366,16 +57736,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/18962/L_e715b67d4ce94a078c861849f4aa0fe1_20250704094308248.jpg" />
 	</programme>
-	<programme channel="Ch.634" start="20260114110000 +0900" stop="20260114123000 +0900">
-		<title>探偵学園Ｑ（全11話）#1</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/27627/L_1b49d527658040078c40c8cd768789a6_20250903104818484.jpg" />
-	</programme>
-	<programme channel="Ch.634" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>【無料】生活情報の時間</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/634.gif" />
-	</programme>
 	<programme channel="Ch.634" start="20260114130000 +0900" stop="20260114150500 +0900">
 		<title>広域警察２（主演・高橋克典）【おとなのサスペンス劇場】</title>
 		<desc />
@@ -58875,11 +58235,6 @@
 		<title>ショートフィルム道 東京少女「眺める少女」</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/39563/L_ed1e324114a3465aa27520e02ef02752_20251104092328692.jpg" />
-	</programme>
-	<programme channel="Ch.635" start="20260114112000 +0900" stop="20260114122000 +0900">
-		<title>凸凹戦隊ゼニゲバン ＃119</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/47653/L_2a0997e5bd604425a29ac1542e5cd81c_20251210093256348.jpg" />
 	</programme>
 	<programme channel="Ch.635" start="20260114122000 +0900" stop="20260114140000 +0900">
 		<title>白竜8  ～六本木侵攻～</title>
@@ -59580,16 +58935,6 @@
 		<title>若妻のエロティック体験 ～奇妙な白日夢～</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/47720/L_b5e001166e124ed38e21b510394acde4_20251210100840959.jpg" />
-	</programme>
-	<programme channel="Ch.636" start="20260114111000 +0900" stop="20260114120800 +0900">
-		<title>こっそり姉の部屋へ…　姉の彼氏に気付かれてしまい…</title>
-		<desc />
-		<icon src="/program/schedule/images/img_opacity.gif" />
-	</programme>
-	<programme channel="Ch.636" start="20260114120800 +0900" stop="20260114122000 +0900">
-		<title>ガイド12分</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/636.gif" />
 	</programme>
 	<programme channel="Ch.636" start="20260114122000 +0900" stop="20260114133800 +0900">
 		<title>溺れる人妻　（字幕）</title>
@@ -60716,16 +60061,6 @@
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/636.gif" />
 	</programme>
-	<programme channel="Ch.580" start="20260114093000 +0900" stop="20260114120000 +0900">
-		<title>若手ゴルファー大会！マイナビ ネクストヒロインゴルフツアー2024 第5戦 後編</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/425/L_c868d570b8bc4fb58383d7ca8458aa6f_20250117155034784.jpg" />
-	</programme>
-	<programme channel="Ch.580" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>[無]ホッとな☆お買い物情報</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/388/L_7e7707d5f6004d82882cd69ec2a69e68_20250117140015067.jpg" />
-	</programme>
 	<programme channel="Ch.580" start="20260114123000 +0900" stop="20260114145000 +0900">
 		<title>KLPGA韓国女子プロゴルフツアー2025　第22戦　最終日（日本語実況解説）</title>
 		<desc />
@@ -61306,16 +60641,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/1577/L_ec51cc368fba4b81bbfdec229b464245_20250321172001298.jpg" />
 	</programme>
-	<programme channel="Ch.600" start="20260114100000 +0900" stop="20260114120000 +0900">
-		<title>ZERO1 2024.1.1後楽園ホール</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/600.gif" />
-	</programme>
-	<programme channel="Ch.600" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>ニュース・スープレックス～虎 #91</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/600.gif" />
-	</programme>
 	<programme channel="Ch.600" start="20260114130000 +0900" stop="20260114150000 +0900">
 		<title>大日本プロレス 2025.12.31 後楽園ホール＜4時間版/前編＞</title>
 		<desc />
@@ -61775,16 +61100,6 @@
 		<title>DDT 2025.1.26後楽園ホール</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/600.gif" />
-	</programme>
-	<programme channel="Ch.601" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>インフォメーション</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/7307/L_8523a478b39e46999290db8463249d5d_20250513120022337.jpg" />
-	</programme>
-	<programme channel="Ch.601" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>ＳＨＯＷ ＤＯＷＮ ＃１ 谷原秀人ｖｓ阿久津未来也（前半）</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/19367/L_9084364beb034baa9a516dfbcffde439_20250704132923642.jpg" />
 	</programme>
 	<programme channel="Ch.601" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>インフォメーション</title>
@@ -62866,11 +62181,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/7329/L_740f00ee82e04f93977b1f7a6bd586f3_20250513121813221.jpg" />
 	</programme>
-	<programme channel="Ch.602" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>インフォメーション</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/36674/L_9bd273dd7c154840ade3b1aad7460db1_20251006103031137.jpg" />
-	</programme>
 	<programme channel="Ch.602" start="20260114120000 +0900" stop="20260114143000 +0900">
 		<title>ファイターズ新人合同自主トレ2026 (1.11鎌スタ)</title>
 		<desc />
@@ -63695,21 +63005,6 @@
 		<title>まいどおおきに!!Appare!でーす！ #63</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/49255/L_a6f10f3e6ac64a2aa3e6ad9e9792fa1e_20251227141626753.jpg" />
-	</programme>
-	<programme channel="Ch.603" start="20260114090000 +0900" stop="20260114120000 +0900">
-		<title>バドミントン S/Jリーグ2025 一宮大会 BIPROGY×金沢学院クラブ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/42235/L_7262f1b4052f4b878f9e6972765d5a0a_20251112120516297.JPG" />
-	</programme>
-	<programme channel="Ch.603" start="20260114120000 +0900" stop="20260114124500 +0900">
-		<title>【45分】ラグビーリーグワン2025-26 D1 第4節 トヨタ×BR東京</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail/image/18795559/L_BC428702923434_d9d53d93c08d4eecb98ad5e280dab7df_20251223152525219.jpg" />
-	</programme>
-	<programme channel="Ch.603" start="20260114124500 +0900" stop="20260114130000 +0900">
-		<title>[無料]【白銀の頂へ！】FISワールドカップ2025/26 ナビ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/4738/L_de3405e24c894bc28c00d570cbffe58e_20250507171646588.jpg" />
 	</programme>
 	<programme channel="Ch.603" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>[初]原田伸郎のめざせパーゴルフ3 #1380【ハッピーゴルフアワー】</title>
@@ -65096,11 +64391,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/4743/L_6f89ab419d604321aba5becf150e612f_20250507172037605.jpg" />
 	</programme>
-	<programme channel="Ch.606" start="20260114110000 +0900" stop="20260114123000 +0900">
-		<title>高校バスケ ニューイヤーカップ2026 男子 #8 中部大第一×八王子</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46026/L_ce69f935919b4727bd4a94f73743ccf1_20251204134616402.jpg" />
-	</programme>
 	<programme channel="Ch.606" start="20260114123000 +0900" stop="20260114133000 +0900">
 		<title>【世界一過酷なラリー】ダカールラリー2026 ステージ8(1/12)</title>
 		<desc />
@@ -65645,11 +64935,6 @@
 		<title>フリースタイルスキー FIS W杯25/26【男女DM】ウォータービル(1/16)</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46204/L_46d2e0eafbaa4bad844cdea9f0fd0129_20251205105146199.jpg" />
-	</programme>
-	<programme channel="Ch.607" start="20260114103000 +0900" stop="20260114130000 +0900">
-		<title>[生][ボウリング]io.LEAGUE 2026 DAY3 PART1</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/48405/L_b1b221853a6a4726be14c05234ba0d14_20251215132435272.jpg" />
 	</programme>
 	<programme channel="Ch.607" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>インフォメーション</title>
@@ -67216,21 +66501,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/48234/L_764d4237f29b47e7a9f8584165003634_20251211112331323.png" />
 	</programme>
-	<programme channel="Ch.609" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>インフォメーション</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/7870/L_970ca07252bb4c4b934c206c6834ee55_20250516160654823.jpg" />
-	</programme>
-	<programme channel="Ch.609" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>FIBA 3×3 WORLDCUP 2025　男子 USA × LAT</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/21783/L_184d791d951a48a9bcf3b2ab12955dbf_20250730175434920.jpg" />
-	</programme>
-	<programme channel="Ch.609" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>MAI BEST BODY ～3日目～</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/7874/L_d8f2c46853ef456d9046c1bff9cb4bee_20250516161930062.jpg" />
-	</programme>
 	<programme channel="Ch.609" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>インフォメーション</title>
 		<desc />
@@ -68591,11 +67861,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/21783/L_184d791d951a48a9bcf3b2ab12955dbf_20250730175434920.jpg" />
 	</programme>
-	<programme channel="Ch.665" start="20260114111500 +0900" stop="20260114125000 +0900">
-		<title>社交ダンスの厳選レッスン集◆ダンスビュウTV #152</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/8346/L_7d83f065899442a18ea734733b3b7f75_20250523142449965.jpg" />
-	</programme>
 	<programme channel="Ch.665" start="20260114125000 +0900" stop="20260114135500 +0900">
 		<title>自宅でできるサーフフィットネス！◆サーフフィットで爽快エクサ！ #5</title>
 		<desc />
@@ -69601,11 +68866,6 @@
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/587.gif" />
 	</programme>
-	<programme channel="Ch.611" start="20260114110500 +0900" stop="20260114125000 +0900">
-		<title>100の資格を持つ女3 風薫る水郷・老舗の醤油蔵に呪いの連続殺人！！</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/9447/L_772a1db3a6c34013b9c1f4076febe089_20250530135645920.jpg" />
-	</programme>
 	<programme channel="Ch.611" start="20260114125000 +0900" stop="20260114134000 +0900">
 		<title>時効警察 #8</title>
 		<desc />
@@ -70471,16 +69731,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/17095/L_d8713f5e5dab4d16be202cdc8df8cb0a_20250701165219911.jpg" />
 	</programme>
-	<programme channel="Ch.612" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>ぶらぶら町中華 #59・60</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/4917/L_9ba5525cfb204a78a6099ebc29a7cc16_20250508095327278.jpg" />
-	</programme>
-	<programme channel="Ch.612" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>四つの嘘 #9[終]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/22226/L_681c5bfe146f4e218537a33a117f9d75_20250801145705042.jpg" />
-	</programme>
 	<programme channel="Ch.612" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>[新]警部補 矢部謙三2（2013） #1</title>
 		<desc />
@@ -71166,11 +70416,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/4917/L_9ba5525cfb204a78a6099ebc29a7cc16_20250508095327278.jpg" />
 	</programme>
-	<programme channel="Ch.613" start="20260114110000 +0900" stop="20260114121000 +0900">
-		<title>ダンス甲子園2025 夏の全国大会「沖縄大会」</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/43855/L_1641722f2cf04a25b4aee63b2e532a08_20251128140503568.JPG" />
-	</programme>
 	<programme channel="Ch.613" start="20260114121000 +0900" stop="20260114133000 +0900">
 		<title>ダンス甲子園2025 夏の全国大会「中国・四国大会」</title>
 		<desc />
@@ -71730,21 +70975,6 @@
 		<title>春の高校バレー ハイライト　#12　2020年 男子決勝「東山×駿台学園」</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6923/L_145f55755e40402cbc8c0dd8ee0117f1_20250512160632121.jpg" />
-	</programme>
-	<programme channel="Ch.614" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>ゲームセンターCX　#392　「ときめきメモリアル Girl's Side」</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/30144/L_5afb889edac64e2cb00fe2ed135b4746_20250926152840438.jpg" />
-	</programme>
-	<programme channel="Ch.614" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>寺門ジモンの肉専門チャンネル　#133「矢澤チキン」</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/8779/L_f95dad0c37104c97a75f68f23b2a08ae_20250528154047917.jpg" />
-	</programme>
-	<programme channel="Ch.614" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>おトクな時間</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/30094/L_2e8a18d4e05840819609fc55e9419131_20250926120443932.jpg" />
 	</programme>
 	<programme channel="Ch.614" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>THEわれめDEポン 24時間生スペシャル2025（1時間Ver.）Part3</title>
@@ -72580,16 +71810,6 @@
 		<title>ひらけ！パンドラの箱 アンタッチャブるTV　#19</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/8753/L_04f1c7cce3ca4f6c8406a555d4a06ffa_20250528124257747.jpg" />
-	</programme>
-	<programme channel="Ch.615" start="20260114103000 +0900" stop="20260114121000 +0900">
-		<title>西村京太郎サスペンス 十津川刑事の肖像3　危険な判決</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46919/L_93c1aaa0e43c463d902ac4e0dd97924c_20251209095346628.jpg" />
-	</programme>
-	<programme channel="Ch.615" start="20260114121000 +0900" stop="20260114131000 +0900">
-		<title>全領域異常解決室　#1　　不可解な異常事件に挑む本格ミステリードラマ！</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/8761/L_a0c4c5e636fe4afbbf0af17b3525e91c_20250528150220090.jpg" />
 	</programme>
 	<programme channel="Ch.615" start="20260114131000 +0900" stop="20260114140000 +0900">
 		<title>全領域異常解決室　#2　　不可解な異常事件に挑む本格ミステリードラマ！</title>
@@ -73641,11 +72861,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/8780/L_b3577c1c0b2f40b2a7d7f61cc29c052e_20250528155137893.jpg" />
 	</programme>
-	<programme channel="Ch.616" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>橋田壽賀子ドラマ「渡る世間は鬼ばかり」(第10シリーズ) #26[字]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/30379/L_34a7bfc6ba844a6680b41190c2b6cc90_20250929172028104.JPG" />
-	</programme>
 	<programme channel="Ch.616" start="20260114120000 +0900" stop="20260114134000 +0900">
 		<title>十津川警部シリーズ「寝台特急あさかぜ殺人事件」[字]</title>
 		<desc />
@@ -74435,16 +73650,6 @@
 		<title>【無料】インフォメーション2026年1月</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/616.gif" />
-	</programme>
-	<programme channel="Ch.617" start="20260114111000 +0900" stop="20260114120000 +0900">
-		<title>3年B組金八先生(第6シリーズ) #13[字]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/30566/L_a2c45d5fae8e42e4afae4d92a1a4fc30_20250929172239262.jpg" />
-	</programme>
-	<programme channel="Ch.617" start="20260114120000 +0900" stop="20260114125000 +0900">
-		<title>[新]中国ドラマ「時間の都市～ロマンスはいつも予想外～」ノーカット字幕版 #1</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/45502/L_3249d6ef269a484787be07bc10063d43_20251203110256149.jpg" />
 	</programme>
 	<programme channel="Ch.617" start="20260114125000 +0900" stop="20260114134000 +0900">
 		<title>中国ドラマ「時間の都市～ロマンスはいつも予想外～」ノーカット字幕版 #2</title>
@@ -75410,21 +74615,6 @@
 		<title>【無料】インフォメーション2026年1月</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/617.gif" />
-	</programme>
-	<programme channel="Ch.618" start="20260114111500 +0900" stop="20260114115500 +0900">
-		<title>【韓】悪い女、善い女 #95</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/23845/L_fd6cab2aae4248d688e203a70ad70a6c_20250806112335368.jpg" />
-	</programme>
-	<programme channel="Ch.618" start="20260114115500 +0900" stop="20260114123500 +0900">
-		<title>【韓】悪い女、善い女 #96</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/23845/L_fd6cab2aae4248d688e203a70ad70a6c_20250806112335368.jpg" />
-	</programme>
-	<programme channel="Ch.618" start="20260114123500 +0900" stop="20260114130500 +0900">
-		<title>インフォメーション</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/618.gif" />
 	</programme>
 	<programme channel="Ch.618" start="20260114130500 +0900" stop="20260114135000 +0900">
 		<title>【韓】愛よ、お願い #31</title>
@@ -76416,11 +75606,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13412/L_dbf097628fc84759a297e2fa4f390138_20250605164032650.jpg" />
 	</programme>
-	<programme channel="Ch.619" start="20260114113000 +0900" stop="20260114123000 +0900">
-		<title>ミス・シャーロック／Miss Sherlock #6</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46222/L_4ddde39a031e461384a6927331e12424_20251205111233240.jpg" />
-	</programme>
 	<programme channel="Ch.619" start="20260114123000 +0900" stop="20260114141500 +0900">
 		<title>【字】韓国バラエティ番組「パク・ボゴムのカンタービレ」 #3</title>
 		<desc />
@@ -77355,21 +76540,6 @@
 		<title>日テレ Drama Soundtrack vol.1</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/619.gif" />
-	</programme>
-	<programme channel="Ch.620" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>ふしぎの国　アンフィビア#11[二]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/5159/L_0c2a40045f8b4236b1fb8321e1c22fbc_20250508115831068.jpg" />
-	</programme>
-	<programme channel="Ch.620" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>ウェイバリー通りのウィザードたち#5[二]</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/620.gif" />
-	</programme>
-	<programme channel="Ch.620" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>ウェイバリー通りのウィザードたち#6[二]</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/620.gif" />
 	</programme>
 	<programme channel="Ch.620" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>エレクトリック・ブルーム　～ガールズバンド・ストーリー#1[二]</title>
@@ -78606,21 +77776,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/5313/L_78f3ee84a5884b89b1485c15b3494820_20250508134452037.jpg" />
 	</programme>
-	<programme channel="Ch.621" start="20260114110000 +0900" stop="20260114115000 +0900">
-		<title>アンジェラベイビー主演「摩天楼のモンタージュ…」　＃６　リン・モンユ…（字幕版）</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/44833/L_e43eeb21dd3f4be78ea485e66addb0ea_20251202113516371.jpg" />
-	</programme>
-	<programme channel="Ch.621" start="20260114115000 +0900" stop="20260114120000 +0900">
-		<title>[無]ＷＯＷＯＷ　ＭＵＳＩＣ　ＢＲＥＡＫ　＃３６８</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/10960/L_59c96d1c7e6a44e59130fba421f266c8_20250603093457683.jpg" />
-	</programme>
-	<programme channel="Ch.621" start="20260114120000 +0900" stop="20260114124500 +0900">
-		<title>[無]マーサー教授の殺人事件簿　＃１　ウソつきな記憶[ニ][字]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/44891/L_ade68ea5cefc41a5992da456ac8bff1c_20251202131649397.jpg" />
-	</programme>
 	<programme channel="Ch.621" start="20260114124500 +0900" stop="20260114133000 +0900">
 		<title>マーサー教授の殺人事件簿　＃２　不完全犯罪[ニ][字]</title>
 		<desc />
@@ -79766,16 +78921,6 @@
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/622.gif" />
 	</programme>
-	<programme channel="Ch.664" start="20260114110000 +0900" stop="20260114123000 +0900">
-		<title>ＢＳ日本のうた　＃２９７</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/11080/L_979a4af53e7f4d41a740481ca3f4e77e_20250603101108254.jpg" />
-	</programme>
-	<programme channel="Ch.664" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>世界入りにくい居酒屋　チリ　サンティアゴ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/11555/L_7ce9989fa8ea49ab8a8e904dc7d1267d_20250603125616496.jpg" />
-	</programme>
 	<programme channel="Ch.664" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>[新]日本初◆中国ドラマ「春花焔～Kill Me Love Me～」＃２６＜字幕＞</title>
 		<desc />
@@ -80545,16 +79690,6 @@
 		<title>中国ドラマ「華の出陣～麗将・阿麦の仇討～」＃２３＜字幕／全３６話＞</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/11412/L_0a78acd0766e489685256d7c006e020a_20250603115409847.jpg" />
-	</programme>
-	<programme channel="Ch.638" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>情報番組</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/638.gif" />
-	</programme>
-	<programme channel="Ch.638" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>ジミ・ヘンドリックス：永遠のレジェンド</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/638.gif" />
 	</programme>
 	<programme channel="Ch.638" start="20260114130000 +0900" stop="20260114153000 +0900">
 		<title>ジャーニー：ライヴ・イン・マニラ2009</title>
@@ -81500,11 +80635,6 @@
 		<title>LIVEダブリンの街角で～OTHER VOICES～ #117《出演》ホイットニー他</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/19012/L_9e0e43f8fd3c41b888d3e06aae02f455_20250704100232813.jpg" />
-	</programme>
-	<programme channel="Ch.639" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>歌詞有り！人気ソロアーティスト vol.1～Mコレ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/47532/L_8b785618313e4427833f35c52ce1a5ac_20251209165054002.jpg" />
 	</programme>
 	<programme channel="Ch.639" start="20260114120000 +0900" stop="20260114170000 +0900">
 		<title>最新！カウントダウン TOP50</title>
@@ -82821,11 +81951,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/10944/L_2bf44a3207af415ea052121777fc02d7_20250603092846168.jpg" />
 	</programme>
-	<programme channel="Ch.641" start="20260114083000 +0900" stop="20260114130000 +0900">
-		<title>J-POP最強カウントダウン50【歌詞入り】</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/641.gif" />
-	</programme>
 	<programme channel="Ch.641" start="20260114130000 +0900" stop="20260114153000 +0900">
 		<title>私たちのバラード ＃1</title>
 		<desc />
@@ -83595,11 +82720,6 @@
 		<title>ビルボードジャパンカウントダウン50</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/48328/L_c473e65048fd46d094fb37dd0987f96c_20251211192028368.jpg" />
-	</programme>
-	<programme channel="Ch.644" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>くらしの情報</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/644.gif" />
 	</programme>
 	<programme channel="Ch.644" start="20260114120000 +0900" stop="20260114150000 +0900">
 		<title>オリコン演歌＆歌謡TOP30 #340</title>
@@ -84955,16 +84075,6 @@
 		<title>70's歌謡曲＃３４</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/5331/L_3d7f4126b1fd4f6b98d195ffa42aeb7e_20250508141246087.png" />
-	</programme>
-	<programme channel="Ch.647" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>レバレッジ 詐欺師たちの償い[字]#11 ジャッカルの仕事</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/45238/L_7d49535a474b4195941ea9f8baacb947_20251202174130055.jpg" />
-	</programme>
-	<programme channel="Ch.647" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>レバレッジ 詐欺師たちの償い[字]#12 芝生の上の攻防</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/45238/L_7d49535a474b4195941ea9f8baacb947_20251202174130055.jpg" />
 	</programme>
 	<programme channel="Ch.647" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>[新][中]花ざかりのプリンセス[字]#1 第1話【ゾクゾクアワー（帯）】</title>
@@ -86416,16 +85526,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/43504/L_97c3aa0d311d4e8d93d045965ef25977_20251125151543568.jpg" />
 	</programme>
-	<programme channel="Ch.650" start="20260114100000 +0900" stop="20260114131000 +0900">
-		<title>ハドソン＆レックス～セントジョンズ警察シェパード犬刑事 6 [字] #7-9</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/34652/L_165d9e11469f44c78cf29d7b23de1bf3_20251002112619600.jpg" />
-	</programme>
-	<programme channel="Ch.650" start="20260114131000 +0900" stop="20260114131500 +0900">
-		<title>豆助のニッポンっていいな。 #10</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/12220/L_cab9f8688bef4c529efad64d50aca1f9_20250603174645968.jpg" />
-	</programme>
 	<programme channel="Ch.650" start="20260114131500 +0900" stop="20260114141000 +0900">
 		<title>エージェント・ハミルトン～裏切りのミッション～ [字] #5</title>
 		<desc />
@@ -87155,16 +86255,6 @@
 		<title>ダヴィデ＆レックス～ローマ警察シェパード犬刑事 2 [字] #6</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/5528/L_172ae728ede54509a47cb5a80e092173_20250508155837911.jpg" />
-	</programme>
-	<programme channel="Ch.651" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>NCIS ～ネイビー犯罪捜査班 シーズン11 #18[ニ]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/17435/L_fd611cb3f98a4f3fa23f9d5e3b55c548_20250702140234269.png" />
-	</programme>
-	<programme channel="Ch.651" start="20260114120000 +0900" stop="20260114130500 +0900">
-		<title>ゴースト ～天国からのささやき シーズン4 #19[ニ]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/45946/L_4d9e5200c13c46998dc514add50a2179_20251204095503950.jpg" />
 	</programme>
 	<programme channel="Ch.651" start="20260114130500 +0900" stop="20260114140000 +0900">
 		<title>ゴースト ～天国からのささやき シーズン4 #20「哀しみの愛憎劇」[ニ]</title>
@@ -88035,16 +87125,6 @@
 		<title>NCIS ～ネイビー犯罪捜査班 シーズン12 #9「吹雪の感謝祭」[字]</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/14078/L_2e1824e67d994834bd8003e883a4ba7a_20250606142701003.png" />
-	</programme>
-	<programme channel="Ch.654" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>インフォメーション</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/9578/L_c68a56f2734a4c8fa98b300915fa1c80_20250530160105459.jpg" />
-	</programme>
-	<programme channel="Ch.654" start="20260114120000 +0900" stop="20260114131500 +0900">
-		<title>［初］韓◆シークレット・ガーデン＃１２＜ノーカット版＞［字］</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/38155/L_9446d5a35631443c81c2cd688224f1a4_20251024154348774.jpg" />
 	</programme>
 	<programme channel="Ch.654" start="20260114131500 +0900" stop="20260114134500 +0900">
 		<title>インフォメーション</title>
@@ -88950,11 +88030,6 @@
 		<title>華◆祈今朝（ききんちょう）～失われた記憶、共鳴する愛～＃１２［字］シュー・カイ</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/15908/L_c67f644f0439456495daf13a66d15f27_20250625104213026.jpg" />
-	</programme>
-	<programme channel="Ch.655" start="20260114113000 +0900" stop="20260114124200 +0900">
-		<title>[韓]#11 星から来たあなた&lt;字&gt;◆キム・スヒョン、チョン・ジヒョン</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/38030/L_5bf427f1c92c4186a836bff5bc6df0dc_20251024091927975.jpg" />
 	</programme>
 	<programme channel="Ch.655" start="20260114124200 +0900" stop="20260114133000 +0900">
 		<title>お役立ち生活情報・お知らせ</title>
@@ -90045,11 +89120,6 @@
 		<title>[日]#20 3分リラックスメロディ～癒しの時間 by miro</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/9455/L_0e26d0b3230444a59929a6c0b64e0a54_20250530142635809.jpg" />
-	</programme>
-	<programme channel="Ch.656" start="20260114105000 +0900" stop="20260114123000 +0900">
-		<title>新商品発売～コンビニレストラン　[字][再]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/14069/L_109e4fc77f094c79aef57339d860be1e_20250606141036591.jpg" />
 	</programme>
 	<programme channel="Ch.656" start="20260114123000 +0900" stop="20260114134500 +0900">
 		<title>華麗な日々（原題）　#17　[字][再]</title>
@@ -91361,16 +90431,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/8452/L_d99d27f401be4095811e95cce58f06ca_20250526122202903.jpg" />
 	</programme>
-	<programme channel="Ch.658" start="20260114100000 +0900" stop="20260114120000 +0900">
-		<title>鋼鉄少女団 2 #11</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/28350/L_4efa7b2974b74c5b985472961a7aa09f_20250904145028921.jpg" />
-	</programme>
-	<programme channel="Ch.658" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>ユ・クイズ ON THE BLOCK 芸能人パート #1</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/658.gif" />
-	</programme>
 	<programme channel="Ch.658" start="20260114123000 +0900" stop="20260114134500 +0900">
 		<title>Mnet 30周年チャートショー #3 SHOW ME THE MONEY編</title>
 		<desc />
@@ -92060,16 +91120,6 @@
 		<title>驚きの土曜日 SAKURA&amp;KIM CHAEWON&amp;HUH YUNJIN(LE SSERAFIM) 出演回 (#235)</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/24399/L_5df89620f1804547b74088f64a5f8b47_20250807161402143.jpg" />
-	</programme>
-	<programme channel="Ch.535" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>ナカに出してＯＫな六十路熟女しか在籍しないメンズエステ</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/535.gif" />
-	</programme>
-	<programme channel="Ch.535" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>アソコの感度が10倍になる催眠術を美女たちに　豪華版</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/535.gif" />
 	</programme>
 	<programme channel="Ch.535" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>昭和ロマンチカ②～逢栖れもん</title>
@@ -92855,11 +91905,6 @@
 		<title>誰もがムラムラするデカパイ熟女５人！（１１）</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/535.gif" />
-	</programme>
-	<programme channel="Ch.659" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>インフォメーション</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/12694/L_b1c85dd490364510b7db0e809cacec63_20250604145428094.jpg" />
 	</programme>
 	<programme channel="Ch.659" start="20260114120000 +0900" stop="20260114133000 +0900">
 		<title>モンド21麻雀プロリーグ 第6回モンド21王座決定戦 #1</title>
@@ -93876,11 +92921,6 @@
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/659.gif" />
 	</programme>
-	<programme channel="Ch.660" start="20260114105000 +0900" stop="20260114125000 +0900">
-		<title>[HV][字]保険調査員 蒲田吟子2　出演：泉ピン子</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/16070/L_98aeb96cf020437fbbbf8bfbcef13c06_20250625141101935.jpg" />
-	</programme>
 	<programme channel="Ch.660" start="20260114125000 +0900" stop="20260114145000 +0900">
 		<title>[HV][字]天才刑事・野呂盆六５　出演：橋爪功</title>
 		<desc />
@@ -94510,11 +93550,6 @@
 		<title>[HV]オーイシ×仲村の想い出アニソン同好会　第16回＜ゲスト：Machico＞</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/45253/L_cb435d8ebb024f3db04165e4c2b9e501_20251203105050426.jpg" />
-	</programme>
-	<programme channel="Ch.661" start="20260114093000 +0900" stop="20260114120000 +0900">
-		<title>家政婦は見た！１３　▼市原悦子、佐藤B作、吉行和子</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/15700/L_d13f784c3c0e4a91a69caa224ff03392_20250624155041098.jpg" />
 	</programme>
 	<programme channel="Ch.661" start="20260114120000 +0900" stop="20260114134500 +0900">
 		<title>韓◆秘密の扉＃１９[字]【ノーカット】　▼ハン・ソッキュ、イ・ジェフン</title>
@@ -95260,16 +94295,6 @@
 		<title>華◆癒やしの恋人～ロマンスの処方箋～＃１８[字]【ノーカット】　▼レオ・ロー</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/15675/L_86279d9270af4f2d88f1cc233abd29a7_20250624152136188.jpg" />
-	</programme>
-	<programme channel="Ch.662" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>遠山の金さんVS女ねずみ #12</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/38660/L_08ac021a21944578a7e71ffe4238c8b9_20251030164447559.jpg" />
-	</programme>
-	<programme channel="Ch.662" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>剣客商売４ #1【お昼のスペシャルアワー】【特選！日替り時代劇】</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/27897/L_4524052593f7476f83b316183b278243_20250903161957875.jpg" />
 	</programme>
 	<programme channel="Ch.662" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>【無料】生活情報の時間《ワイド版》</title>
@@ -96081,11 +95106,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/28024/L_3b190a260ede4b3cb087cc90c8c58c91_20250904095845431.jpg" />
 	</programme>
-	<programme channel="Ch.663" start="20260114103000 +0900" stop="20260114123000 +0900">
-		<title>片瀬美月「運命の出会い」</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/663.gif" />
-	</programme>
 	<programme channel="Ch.663" start="20260114123000 +0900" stop="20260114143000 +0900">
 		<title>桃山えりか「PEACH HIP」</title>
 		<desc />
@@ -96490,21 +95510,6 @@
 		<title>風吹ケイ「無双」</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/663.gif" />
-	</programme>
-	<programme channel="Ch.667" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>グノーシア #13</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/34295/L_8e3795dda3324c12bb3a8b3241159b71_20251002092113884.jpg" />
-	</programme>
-	<programme channel="Ch.667" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>ロードス島戦記-英雄騎士伝- #20</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/47509/L_ceef5d8fada9486f93c27c2ff0fcee00_20251209161115733.jpg" />
-	</programme>
-	<programme channel="Ch.667" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>ガン×ソード #22</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/47440/L_cd5d804447b74538b39cbea8d3320512_20251209155532686.jpg" />
 	</programme>
 	<programme channel="Ch.667" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>勘違いの工房主 ～英雄パーティの元雑用係が、実は戦闘以外が…#11・#12 [終][字]</title>
@@ -97630,21 +96635,6 @@
 		<title>アルジェントソーマ #05</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/47418/L_1e4dc76f44a54ff0a2a9a8d8b37efacf_20251209152637063.jpg" />
-	</programme>
-	<programme channel="Ch.668" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>トムとジェリー (二)</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/7441/L_36006771878b42b7b649e08b4c5bada6_20250513135001900.jpg" />
-	</programme>
-	<programme channel="Ch.668" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>トムとジェリー (二)</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/7441/L_36006771878b42b7b649e08b4c5bada6_20250513135001900.jpg" />
-	</programme>
-	<programme channel="Ch.668" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>トムとジェリー ショー #71(二)</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/10424/L_dd5f549c8b96483fbfc77cf82ec1fa30_20250602105823335.jpg" />
 	</programme>
 	<programme channel="Ch.668" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>チキチキマシン猛レース #9</title>
@@ -99201,16 +98191,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/10488/L_9cf2deb4942d48c59bf3a29db85ae6e0_20250602113042071.jpg" />
 	</programme>
-	<programme channel="Ch.669" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>それいけ！アンパンマン[字] #1424</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/669.gif" />
-	</programme>
-	<programme channel="Ch.669" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>家庭教師ヒットマンREBORN![字] #15,16</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/48239/L_7b0a531d28504ed49f7c3bdf6848df82_20251211112901656.jpg" />
-	</programme>
 	<programme channel="Ch.669" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>赤ずきんチャチャ #67,68</title>
 		<desc />
@@ -100151,16 +99131,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/48239/L_7b0a531d28504ed49f7c3bdf6848df82_20251211112901656.jpg" />
 	</programme>
-	<programme channel="Ch.670" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>[字]九龍ジェネリックロマンス #3,4</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/670.gif" />
-	</programme>
-	<programme channel="Ch.670" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>[字]逆転裁判 ～その「真実」、異議あり!～ #1,2</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/45659/L_3f4879eee79a4c06bc6d3e1a115305ae_20251203110443248.jpg" />
-	</programme>
 	<programme channel="Ch.670" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>[字]ルパン三世(PART2) デジタルリマスター版 #83,84</title>
 		<desc />
@@ -101016,21 +99986,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/41909/L_d75a8c58049b450eb2d81b645f466c20_20251110125737387.jpg" />
 	</programme>
-	<programme channel="Ch.674" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>情報番組</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6489/L_150c6a5dbdc4457f8162abdc46488363_20250509161555080.jpg" />
-	</programme>
-	<programme channel="Ch.674" start="20260114120000 +0900" stop="20260114125500 +0900">
-		<title>未確認モンスターを追え！S1 #1 アメリカのネッシー[ニ] ◆世界の謎</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/48367/L_760e49d7ab8c4953ad14aa3a05eff929_20251212170348052.jpg" />
-	</programme>
-	<programme channel="Ch.674" start="20260114125500 +0900" stop="20260114130000 +0900">
-		<title>歴史の証言～あの日何が語られたのか～ #6（石原慎太郎）</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/29262/L_6ffbb78ab92841e7b9969c00bd978ff0_20250911171523721.jpg" />
-	</programme>
 	<programme channel="Ch.674" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>ザ・山男 S1 #1 マイナス50度の冬が来る[ニ]</title>
 		<desc />
@@ -101635,16 +100590,6 @@
 		<title>W・シャトナーの世界の怪奇現象S1 #13&amp;#14[字] ◆ミステリー：超常現象</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/42315/L_252613d5fc574c1f8ebb4cdd5516f1ee_20251112145947119.jpg" />
-	</programme>
-	<programme channel="Ch.675" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>獣医ミシェルの日常　１．５「旅立ち」[字]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/34950/L_21d2793ca35c46d8ab04259552be358e_20251002140827890.jpg" />
-	</programme>
-	<programme channel="Ch.675" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>獣医ミシェルの日常　９「牛のボート移送」[ニ]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/20691/L_ae970735080845a8afe851dd66c2a926_20250709125957462.jpg" />
 	</programme>
 	<programme channel="Ch.675" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>崩壊！なんでそうなるの？「橋の崩落」声：川田紳司[ニ]</title>
@@ -102440,16 +101385,6 @@
 		<title>スクープ！ドラッグと欲望の世界　５「デトロイト　ハロウィーンの夜」声：大塚明夫[ニ]</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/44932/L_2a23bf66fe304a398b6c2aa4cf4a911d_20251202135345630.jpg" />
-	</programme>
-	<programme channel="Ch.676" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>【名車一挙】名車再生！：2004年 ミニ・クーパーS MC40(二)</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/8999/L_4360dd4494234e74a6fa306aabc6b73c_20250529161853074.JPG" />
-	</programme>
-	<programme channel="Ch.676" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>【名車一挙】名車再生！ケータハム・セブン(二)</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/22487/L_172cc9e99f5b4f359669e72489f8f728_20250804093510229.jpg" />
 	</programme>
 	<programme channel="Ch.676" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>インフォマーシャル(日)</title>
@@ -103380,16 +102315,6 @@
 		<title>THE NAKED S10：挑戦と限界(二)</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/35602/L_e3b987edaa9c4d6194fdd78e93e5c2f4_20251002154017454.JPG" />
-	</programme>
-	<programme channel="Ch.677" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>インフォマーシャル(日)</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/9145/L_560b080ef95f440ba7a549afd51c7cb9_20250530101026223.jpg" />
-	</programme>
-	<programme channel="Ch.677" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>イルカ・ダイアリー：お気に入りの遊び(二)</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/21381/L_18da45ef146a443ba1d8f50f91f48ce0_20250724154645015.jpg" />
 	</programme>
 	<programme channel="Ch.677" start="20260114123000 +0900" stop="20260114133000 +0900">
 		<title>【ネイチャー特選】動物武器大全：噴射とにおい攻撃(二)</title>
@@ -104521,16 +103446,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/38206/L_62671e6a8c6549a2b1fde04b768aeb81_20251024183423418.JPG" />
 	</programme>
-	<programme channel="Ch.560" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>最新情報をお届け！お昼の天気予報</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/560.gif" />
-	</programme>
-	<programme channel="Ch.560" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>今夜から明日の天気予報</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/560.gif" />
-	</programme>
 	<programme channel="Ch.560" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>今夜から明日の天気予報</title>
 		<desc />
@@ -105325,31 +104240,6 @@
 		<title>夜明けの天気予報</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/560.gif" />
-	</programme>
-	<programme channel="Ch.565" start="20260114113000 +0900" stop="20260114114500 +0900">
-		<title>ビジネストゥデイ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/29743/L_89b32b7d30ab4aa4861da03a5fd8bf96_20250925131012282.jpg" />
-	</programme>
-	<programme channel="Ch.565" start="20260114114500 +0900" stop="20260114120000 +0900">
-		<title>BBCスポーツ</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/565.gif" />
-	</programme>
-	<programme channel="Ch.565" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>ニュースデイ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/29741/L_a3970c5731654b29adc54a2d9d22f61c_20250925131010846.jpg" />
-	</programme>
-	<programme channel="Ch.565" start="20260114123000 +0900" stop="20260114124500 +0900">
-		<title>ビジネストゥデイ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/29743/L_89b32b7d30ab4aa4861da03a5fd8bf96_20250925131012282.jpg" />
-	</programme>
-	<programme channel="Ch.565" start="20260114124500 +0900" stop="20260114130000 +0900">
-		<title>BBCスポーツ(再)</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/565.gif" />
 	</programme>
 	<programme channel="Ch.565" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>ニュースデイ</title>
@@ -107026,16 +105916,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/29745/L_4d99ca87b9e74fdf9e53e425c11d4a1b_20250925131013654.jpg" />
 	</programme>
-	<programme channel="Ch.566" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>[ニ]ザ・ソース</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46596/L_c65388b75dff4102a812af8f34d65792_20251208115034573.jpg" />
-	</programme>
-	<programme channel="Ch.566" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>[ニ]CNN ニュースナイト</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46574/L_0aed950812a24c0d876080163fc47dc2_20251208115019237.jpg" />
-	</programme>
 	<programme channel="Ch.566" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>[ニ]ローラ・コーツ・ライブ</title>
 		<desc />
@@ -108026,16 +106906,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46562/L_7176f28172334a6da4835cbdce0f1f44_20251208115010729.png" />
 	</programme>
-	<programme channel="Ch.567" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>[ニ]ザ・ソース</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46629/L_5c3f9d1421ee4d518bbcf79bf144e448_20251208120032565.jpg" />
-	</programme>
-	<programme channel="Ch.567" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>[ニ]CNN ニュースナイト</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46620/L_3989a448bac44f4eb4b5ff46acd3ee91_20251208120026070.jpg" />
-	</programme>
 	<programme channel="Ch.567" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>[ニ]ローラ・コーツ・ライブ</title>
 		<desc />
@@ -108885,21 +107755,6 @@
 		<title>CNN ニュース・セントラル</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/3522/L_77b19f6649d64ed4bfb1dc15b70a0554_20250501160434383.jpg" />
-	</programme>
-	<programme channel="Ch.568" start="20260114113200 +0900" stop="20260114115800 +0900">
-		<title>走遍中国 [再]</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/568.gif" />
-	</programme>
-	<programme channel="Ch.568" start="20260114115800 +0900" stop="20260114123000 +0900">
-		<title>記住郷愁 [再]</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/568.gif" />
-	</programme>
-	<programme channel="Ch.568" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>海峡両岸 [再]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6817/L_158cbf466bc345748f4aad285d52542f_20250512143232857.jpg" />
 	</programme>
 	<programme channel="Ch.568" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>中国新聞</title>
@@ -110010,21 +108865,6 @@
 		<title>走遍中国 [再]</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6839/L_dc1135eee855456ca565c20f8b56b800_20250512144109456.jpg" />
-	</programme>
-	<programme channel="Ch.570" start="20260114103000 +0900" stop="20260114114000 +0900">
-		<title>朝エクスプレス</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/9153/L_c200fce083ed493e82b28c5b091aad24_20250530101420513.jpg" />
-	</programme>
-	<programme channel="Ch.570" start="20260114114000 +0900" stop="20260114121000 +0900">
-		<title>～攻めのIR～ Market Breakthrough</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/9143/L_9e0c37bfd00f4d8aa1805638fc5bfdd1_20250530100936689.jpg" />
-	</programme>
-	<programme channel="Ch.570" start="20260114121000 +0900" stop="20260114122500 +0900">
-		<title>ゲストトーク(再)</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/570.gif" />
 	</programme>
 	<programme channel="Ch.570" start="20260114122500 +0900" stop="20260114133000 +0900">
 		<title>昼エクスプレス</title>
@@ -111485,11 +110325,6 @@
 		<title>The Exchange</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/570.gif" />
-	</programme>
-	<programme channel="Ch.571" start="20260114090000 +0900" stop="20260114120000 +0900">
-		<title>Morning　News</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/571.gif" />
 	</programme>
 	<programme channel="Ch.571" start="20260114120000 +0900" stop="20260114140000 +0900">
 		<title>Lunch　Update</title>
@@ -113676,16 +112511,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13153/L_f81a8e6edf174c87b6de1d1bde48f0b1_20250605114734234.png" />
 	</programme>
-	<programme channel="Ch.536" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>旭川興業 #43</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/878/L_1968cb8c3c024f2b9107ace2f15ea800_20250206115358801.jpg" />
-	</programme>
-	<programme channel="Ch.536" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>じぇねばと #8</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/536.gif" />
-	</programme>
 	<programme channel="Ch.536" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>パチ姫13時間体感記Ⅱ　#24</title>
 		<desc />
@@ -114510,16 +113335,6 @@
 		<title>パチスロ実戦塾 #50</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/36394/L_be792d07be9746b6bf941c6d1b98b057_20251003155109068.jpg" />
-	</programme>
-	<programme channel="Ch.537" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>パチンコ滅亡論 #152</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/30347/L_c7fd84e9c24e4220b075c759ab409b87_20250929160955105.jpg" />
-	</programme>
-	<programme channel="Ch.537" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>万発・ヤングのわかってもらえるさ #337</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13853/L_7869a47f86bc46ac802e742cc40e26db_20250606103904344.jpg" />
 	</programme>
 	<programme channel="Ch.537" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>パチンコキャノンボールseason25 #1</title>
@@ -115521,16 +114336,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13806/L_3945c742e4ec4b9fb0dca64e53eb74d1_20250606102232630.jpg" />
 	</programme>
-	<programme channel="Ch.540" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>押忍！東北つれつれ団 2 松島湾のハゼ釣り</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/37251/L_dc1f9d8777de4baf9722a03fc3fc9a83_20251008144902413.jpg" />
-	</programme>
-	<programme channel="Ch.540" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>ヘラブナギャラリー 厳寒期の釣り・総集編</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/20477/L_9d0e01e90ac84c0688ed174e710a89e4_20250708113359195.jpg" />
-	</programme>
 	<programme channel="Ch.540" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>魚種格闘技戦！ 285 常陸利根川リバーシーバス</title>
 		<desc />
@@ -116340,11 +115145,6 @@
 		<title>SALT X 30 鹿児島のサーフゲーム</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/43097/L_7352816d306347ec9b67e1e827c1e572_20251114122209338.jpg" />
-	</programme>
-	<programme channel="Ch.542" start="20260114110000 +0900" stop="20260114120500 +0900">
-		<title>金原亭馬生「船徳」金原亭馬玉「そば清」『らくご・古金亭ふたたび』</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/542.gif" />
 	</programme>
 	<programme channel="Ch.542" start="20260114120500 +0900" stop="20260114133000 +0900">
 		<title>一龍斎貞奈・一龍斎貞弥・宝井琴調「芝居の喧嘩」講談協会×道楽亭　特別講談会　前編</title>
@@ -117195,21 +115995,6 @@
 		<title>鯉斗五十番勝負#9～楽器カフェすずらん亭◇瀧川鯉斗「転失気」、ゲスト：柳亭市弥</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/542.gif" />
-	</programme>
-	<programme channel="Ch.544" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>林家正蔵の今日も四時から飲み #53</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/9107/L_3085db349cc8479d8559bd86d4dbf4fe_20250529184536171.jpg" />
-	</programme>
-	<programme channel="Ch.544" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>旅してHappy #21</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/544.gif" />
-	</programme>
-	<programme channel="Ch.544" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>インフォメーション</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/9113/L_9bdd45b549234f4fb3892395850f611f_20250530092427563.jpg" />
 	</programme>
 	<programme channel="Ch.544" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>ドライブインらーめん探訪 #16</title>
@@ -118565,16 +117350,6 @@
 		<title>絶品ご当地グルメの旅 シーズン3 #6</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/40183/L_3bfa60e0696f4c059bd4368376e76ab5_20251105102901766.jpg" />
-	</programme>
-	<programme channel="Ch.546" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>テレビショッピング</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/546.gif" />
-	</programme>
-	<programme channel="Ch.546" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>盲腸線～行き止まり駅の旅 #11</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/18519/L_92a67c45549146629af01b6a5cd9f066_20250703124628688.jpg" />
 	</programme>
 	<programme channel="Ch.546" start="20260114123000 +0900" stop="20260114133000 +0900">
 		<title>定点鉄道風景 #2</title>
@@ -120021,21 +118796,6 @@
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/546.gif" />
 	</programme>
-	<programme channel="Ch.521" start="20260114100000 +0900" stop="20260114115600 +0900">
-		<title>囲碁）[藤沢里菜特集]第29期 竜星戦</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6619/L_9f9c22ce484f4ce0b0ea8b549a8a201e_20250512111323568.png" />
-	</programme>
-	<programme channel="Ch.521" start="20260114115600 +0900" stop="20260114122500 +0900">
-		<title>将棋）石田直裕の将棋講座 第17、18回</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6563/L_559c8e350a42421d9d60e77f5a6ee06b_20250512095601975.png" />
-	</programme>
-	<programme channel="Ch.521" start="20260114122500 +0900" stop="20260114130000 +0900">
-		<title>将棋）大平武洋の将棋講座 第13～15回</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6563/L_559c8e350a42421d9d60e77f5a6ee06b_20250512095601975.png" />
-	</programme>
 	<programme channel="Ch.521" start="20260114130000 +0900" stop="20260114143800 +0900">
 		<title>将棋）第32期 銀河戦[セレクション]</title>
 		<desc />
@@ -121105,21 +119865,6 @@
 		<title>将棋）三枚堂達也の中級講座 第2回</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6563/L_559c8e350a42421d9d60e77f5a6ee06b_20250512095601975.png" />
-	</programme>
-	<programme channel="Ch.672" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>アバローのプリンセス　エレナ#29[二][字/日]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/5824/L_0152eba842174dd3ba0e86efe87eb5e6_20250509091250283.jpg" />
-	</programme>
-	<programme channel="Ch.672" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>リロ　アンド　スティッチ　ザ・シリーズ#7[二][字/日]</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/672.gif" />
-	</programme>
-	<programme channel="Ch.672" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>バンピリーナとバンパイアかぞく#60[二][字/日英]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6413/L_e8ce8740993741e19e880f65ce174cee_20250509151756136.jpg" />
 	</programme>
 	<programme channel="Ch.672" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>ドックはおもちゃドクター#8[二][字/日英]</title>
@@ -125581,21 +124326,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/35364/L_c2a4df63f1224abb9b6558c2459f8f86_20251002142341547.jpg" />
 	</programme>
-	<programme channel="Ch.688" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>[無]馬産地通信 #334[字]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/29627/L_86b62ec44ab04767b68a5eaaf1f7456f_20250924125338138.png" />
-	</programme>
-	<programme channel="Ch.688" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>競馬場の達人（カベポスター浜田順平） #599</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46205/L_4bd1514c6a504491bc9de79db4e23e90_20251205105253911.jpeg" />
-	</programme>
-	<programme channel="Ch.688" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>スタリオンライブラリー #75[字]</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/46214/L_aed6bc60578744bdabba74df616886ae_20251205110148849.jpg" />
-	</programme>
 	<programme channel="Ch.688" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>競馬年鑑（平成12年Ｐａｒｔ3） #89[字]</title>
 		<desc />
@@ -126996,11 +125726,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13240/L_48b305bf6ada47dc913dcbecdb33b2a0_20250605152843551.jpg" />
 	</programme>
-	<programme channel="Ch.691" start="20260114100000 +0900" stop="20260114120000 +0900">
-		<title>立川 F2 第3日(モーニング)</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13331/L_52d70c5c843f45d599495f949f6157d0_20250605160659184.png" />
-	</programme>
 	<programme channel="Ch.691" start="20260114120000 +0900" stop="20260114150000 +0900">
 		<title>放送のお知らせ</title>
 		<desc />
@@ -127765,36 +126490,6 @@
 		<title>武雄 F1 第3日レースダイジェスト</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6514/L_0479a399227a4779988d2c39e65e0b18_20250509164825636.jpg" />
-	</programme>
-	<programme channel="Ch.692" start="20260114112000 +0900" stop="20260114114000 +0900">
-		<title>小倉 F2 第1日レースダイジェスト</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13364/L_1e47158a6f18464b9705c286687dae2f_20250605161940747.jpg" />
-	</programme>
-	<programme channel="Ch.692" start="20260114114000 +0900" stop="20260114120000 +0900">
-		<title>取手 F1 第1日レースダイジェスト</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13364/L_1e47158a6f18464b9705c286687dae2f_20250605161940747.jpg" />
-	</programme>
-	<programme channel="Ch.692" start="20260114120000 +0900" stop="20260114122000 +0900">
-		<title>取手 F1 第2日レースダイジェスト</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13364/L_1e47158a6f18464b9705c286687dae2f_20250605161940747.jpg" />
-	</programme>
-	<programme channel="Ch.692" start="20260114122000 +0900" stop="20260114124000 +0900">
-		<title>岐阜 F1 第1日レースダイジェスト</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13364/L_1e47158a6f18464b9705c286687dae2f_20250605161940747.jpg" />
-	</programme>
-	<programme channel="Ch.692" start="20260114124000 +0900" stop="20260114130000 +0900">
-		<title>岐阜 F1 第2日レースダイジェスト</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13364/L_1e47158a6f18464b9705c286687dae2f_20250605161940747.jpg" />
-	</programme>
-	<programme channel="Ch.692" start="20260114130000 +0900" stop="20260114132000 +0900">
-		<title>小倉 F2 第1日レースダイジェスト</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13364/L_1e47158a6f18464b9705c286687dae2f_20250605161940747.jpg" />
 	</programme>
 	<programme channel="Ch.692" start="20260114132000 +0900" stop="20260114134000 +0900">
 		<title>取手 F1 第1日レースダイジェスト</title>
@@ -129266,21 +127961,6 @@
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/703.gif" />
 	</programme>
-	<programme channel="Ch.518" start="20260114113000 +0900" stop="20260114120000 +0900">
-		<title>有報天天讀</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6601/L_d968f8a6d1b44dcaa977d4c2a8dc0ffa_20250512105721316.jpg" />
-	</programme>
-	<programme channel="Ch.518" start="20260114120000 +0900" stop="20260114123000 +0900">
-		<title>鳳凰財経日報</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6655/L_a551adff14424f1ab059c9cffc0e4b56_20250512114012097.jpg" />
-	</programme>
-	<programme channel="Ch.518" start="20260114123000 +0900" stop="20260114130000 +0900">
-		<title>鳳凰全球連線</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/6627/L_c801bd348c5e48f89a0f7013ce9c9128_20250512111815650.jpg" />
-	</programme>
 	<programme channel="Ch.518" start="20260114130000 +0900" stop="20260114133000 +0900">
 		<title>鳳凰聚焦</title>
 		<desc />
@@ -130546,16 +129226,6 @@
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/518.gif" />
 	</programme>
-	<programme channel="Ch.523" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>モリリン　ＷＯＭＡ！　多層構造でぽかぽかアルミシート入りラグ</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/523.gif" />
-	</programme>
-	<programme channel="Ch.523" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>ＧＯ！ＧＯ！バリュー　ＪＳハートレーベル　コンフォートシューズ</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/523.gif" />
-	</programme>
 	<programme channel="Ch.523" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>完全なる天然水晶の世界　「貴煌」</title>
 		<desc />
@@ -131381,16 +130051,6 @@
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/523.gif" />
 	</programme>
-	<programme channel="Ch.525" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>トロピカルマリア！フルーツデザート</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/525.gif" />
-	</programme>
-	<programme channel="Ch.525" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>純金アートコレクション</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/525.gif" />
-	</programme>
 	<programme channel="Ch.525" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>新谷酵素 酵素パワーを実感！</title>
 		<desc />
@@ -132191,16 +130851,6 @@
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/525.gif" />
 	</programme>
-	<programme channel="Ch.527" start="20260114110000 +0900" stop="20260114120000 +0900">
-		<title>麗しの宝石ショッピングConnect</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/527.gif" />
-	</programme>
-	<programme channel="Ch.527" start="20260114120000 +0900" stop="20260114130000 +0900">
-		<title>麗しの宝石ショッピングConnect</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/527.gif" />
-	</programme>
 	<programme channel="Ch.527" start="20260114130000 +0900" stop="20260114140000 +0900">
 		<title>ジュエリーコンサルタント</title>
 		<desc />
@@ -132930,46 +131580,6 @@
 		<title>GSTVリピート放送</title>
 		<desc />
 		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/527.gif" />
-	</programme>
-	<programme channel="Ch.528" start="20260114113000 +0900" stop="20260114114500 +0900">
-		<title>ウェルヴィーナス　TVショッピング</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13086/L_ab9f4cb493e042099d2a9da941d6f5ce_20250605110908182.png" />
-	</programme>
-	<programme channel="Ch.528" start="20260114114500 +0900" stop="20260114120000 +0900">
-		<title>セレスタショッピング</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13086/L_ab9f4cb493e042099d2a9da941d6f5ce_20250605110908182.png" />
-	</programme>
-	<programme channel="Ch.528" start="20260114120000 +0900" stop="20260114120500 +0900">
-		<title>セレスタショッピング</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13086/L_ab9f4cb493e042099d2a9da941d6f5ce_20250605110908182.png" />
-	</programme>
-	<programme channel="Ch.528" start="20260114120500 +0900" stop="20260114121000 +0900">
-		<title>ショッピングアワー</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13086/L_ab9f4cb493e042099d2a9da941d6f5ce_20250605110908182.png" />
-	</programme>
-	<programme channel="Ch.528" start="20260114121000 +0900" stop="20260114124000 +0900">
-		<title>メディプラスゲル</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/528.gif" />
-	</programme>
-	<programme channel="Ch.528" start="20260114124000 +0900" stop="20260114124500 +0900">
-		<title>セレスタショッピング</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13086/L_ab9f4cb493e042099d2a9da941d6f5ce_20250605110908182.png" />
-	</programme>
-	<programme channel="Ch.528" start="20260114124500 +0900" stop="20260114125000 +0900">
-		<title>ショッピングアワー</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13086/L_ab9f4cb493e042099d2a9da941d6f5ce_20250605110908182.png" />
-	</programme>
-	<programme channel="Ch.528" start="20260114125000 +0900" stop="20260114132000 +0900">
-		<title>■ショッピングアワー</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13086/L_ab9f4cb493e042099d2a9da941d6f5ce_20250605110908182.png" />
 	</programme>
 	<programme channel="Ch.528" start="20260114132000 +0900" stop="20260114132500 +0900">
 		<title>ベリーベスト  アスベスト健康被害訴訟</title>
@@ -135196,11 +133806,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/13086/L_ab9f4cb493e042099d2a9da941d6f5ce_20250605110908182.png" />
 	</programme>
-	<programme channel="Ch.942" start="20260114110000 +0900" stop="20260114130000 +0900">
-		<title>★貧乳妻 ～超絶敏感！ちいさいおっぱい７人～</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/26410/L_367b208c2a964a66bf971d968ef759b8_20250829205151491.jpg" />
-	</programme>
 	<programme channel="Ch.942" start="20260114130000 +0900" stop="20260114150000 +0900">
 		<title>★空の人 某航空会社CA【無理やりレ●プ】フライト前のロッカールーム 生黒パンス</title>
 		<desc />
@@ -135611,11 +134216,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/26398/L_fe296a841d884216b0d2639f24450d12_20250829203940266.jpg" />
 	</programme>
-	<programme channel="Ch.943" start="20260114090000 +0900" stop="20260114120000 +0900">
-		<title>★ため息が出るほど美しい人妻たちがナンパされて中●しまで…。3時間 Vol.9</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/43403/L_5f29c25bc70e4aa9bbdabdcd13364973_20251121131138007.jpg" />
-	</programme>
 	<programme channel="Ch.943" start="20260114120000 +0900" stop="20260114140000 +0900">
 		<title>★「八乃つばさ］世話焼きな叔母にドエロい痴女誘惑をされて年上SEX沼にハマって…</title>
 		<desc />
@@ -135980,11 +134580,6 @@
 		<title>★&lt;MAX21&gt;顔出し解禁！！マジックミラー便　Ｆカップ以上！！巨乳ビキニ女子大生…</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/43396/L_e7fd492bee414761b900362df461ec19_20251121130824247.jpg" />
-	</programme>
-	<programme channel="Ch.944" start="20260114110000 +0900" stop="20260114130000 +0900">
-		<title>★橘メアリー 性処理採用された愛人秘書 汗と接吻に満ちた中●し性交</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/43648/L_0ec0fd25f0a14923ad24135366c8bf42_20251126141601595.jpg" />
 	</programme>
 	<programme channel="Ch.944" start="20260114130000 +0900" stop="20260114150000 +0900">
 		<title>★人妻ナンパ 今日は主婦、サボりませんか？</title>
@@ -136361,11 +134956,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/43611/L_9e68ccd918bb422d8f1c3590a7f1cb26_20251126132855412.jpg" />
 	</programme>
-	<programme channel="Ch.945" start="20260114110000 +0900" stop="20260114130000 +0900">
-		<title>★ＳＥＸが大学入試の世界　～令和８年度全国統一セックス共通テスト～</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/43354/L_bed0c0bd994f4f508a37deea4b426b88_20251121110654776.jpg" />
-	</programme>
 	<programme channel="Ch.945" start="20260114130000 +0900" stop="20260114150000 +0900">
 		<title>★小湊よつ葉　変態夫婦にＮＴＲ性癖を植えつけられるウブな庶民妻</title>
 		<desc />
@@ -136690,11 +135280,6 @@
 		<title>★ＭＭ号　メモリアルヌード撮影中に夫が見ているとは知らずデカチンＳＥＸ２</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/43352/L_f7ed668dbd7d459b917b3bfcf7cbcfde_20251121110618556.jpg" />
-	</programme>
-	<programme channel="Ch.946" start="20260114110000 +0900" stop="20260114130000 +0900">
-		<title>★目の肥えた視聴者が選んだエロ映像ＢＥＳＴ１０（１４）</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/47810/L_a34e4aa43d40419fbd1afaf6fcf3de1f_20251210120310339.jpg" />
 	</programme>
 	<programme channel="Ch.946" start="20260114130000 +0900" stop="20260114150000 +0900">
 		<title>★肉付きのいい体を見せつけオマ●コを濡らす熟女たち４</title>
@@ -137561,11 +136146,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/44086/L_eff48bd8759c470bbf30a287a0679b4f_20251201120045297.jpg" />
 	</programme>
-	<programme channel="Ch.957" start="20260114110000 +0900" stop="20260114130000 +0900">
-		<title>★「私の言う通りにシコるんやで」 つばさ舞の超快感ち●こきアシスト！</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/48849/L_07a5c40e6c86420b857ac3ad9d484693_20251222150822794.jpg" />
-	</programme>
 	<programme channel="Ch.957" start="20260114130000 +0900" stop="20260114150000 +0900">
 		<title>★「お前に妻を妊娠させて欲しいんだ…。」代理妊活NTR 美乃すずめ</title>
 		<desc />
@@ -137885,11 +136465,6 @@
 		<title>★ホームヘルパーさんと独身息子が介護の隙間で即性交していた記録 矢埜愛茉</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/48855/L_b463dae347e342f9a4cca7dc48423acd_20251222151502411.jpg" />
-	</programme>
-	<programme channel="Ch.958" start="20260114110000 +0900" stop="20260114130000 +0900">
-		<title>★［涼森れむ］絶対忠実秘書社長の言う事、何でもシます。</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/43695/L_7bc07ad5cf654f84a4d83677b79dbc29_20251127144106545.jpg" />
 	</programme>
 	<programme channel="Ch.958" start="20260114130000 +0900" stop="20260114150000 +0900">
 		<title>★［木下ひまり］シコられ願望が収まらない人妻の尻誘惑</title>
@@ -138906,11 +137481,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/49361/L_242258de541248ca94447e4210b83769_20251227194025899.jpg" />
 	</programme>
-	<programme channel="Ch.963" start="20260114103000 +0900" stop="20260114123000 +0900">
-		<title>★永久保存版の熟女　小早川玲子ベスト　忘れられない肉体 ～こういう女を一度は抱い</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/22185/L_0f44e62d953847b2bf8774a21d79eb02_20250801143017030.jpg" />
-	</programme>
 	<programme channel="Ch.963" start="20260114123000 +0900" stop="20260114153000 +0900">
 		<title>★母娘繚乱！熟々なお母さんとピチピチな娘さんではどちらにします？う～んできれば親</title>
 		<desc />
@@ -139711,11 +138281,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/49306/L_ad207d75638b4c5b8d84946cfdca8e0e_20251227175740464.jpg" />
 	</programme>
-	<programme channel="Ch.965" start="20260114110000 +0900" stop="20260114130000 +0900">
-		<title>★兄嫁と中●ししまくった数日間/彩奈リナ</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/48917/L_cd30e909d60b43b3ba895dac3e667c42_20251222191321988.jpg" />
-	</programme>
 	<programme channel="Ch.965" start="20260114130000 +0900" stop="20260114170000 +0900">
 		<title>★【奥様劇場】★【4時間SP】よりによって通勤電車で…満員の中で身動きが取れない人</title>
 		<desc />
@@ -140021,11 +138586,6 @@
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/48902/L_ad1e5cdca1774b13b6565d4cec98853a_20251222185425810.jpg" />
 	</programme>
-	<programme channel="Ch.966" start="20260114110000 +0900" stop="20260114130000 +0900">
-		<title>★男勝りな女性整備士と真夏のガレージに2人きり！何度も車庫セク［有村のぞみ］</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/45689/L_e9a1e517510e489697826ee06ecc874a_20251203121620425.jpg" />
-	</programme>
 	<programme channel="Ch.966" start="20260114130000 +0900" stop="20260114150000 +0900">
 		<title>★アパレルスタッフのお姉さんがエロ過ぎてシコってたら、こっそり抜いてくれた話。</title>
 		<desc />
@@ -140310,11 +138870,6 @@
 		<title>★ガチで可愛い女子●生をＳＮＳで発掘！制服姿でホテルでハメ放題！１０名４時間</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/45695/L_a5f1664269574c5d8fff648b584b2228_20251203122130925.jpg" />
-	</programme>
-	<programme channel="Ch.967" start="20260114100000 +0900" stop="20260114130000 +0900">
-		<title>★我が子の前で触られ絶頂が止まらない巨尻母　ＶＯＬ．４</title>
-		<desc />
-		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/44825/L_6e6cace63feb4685b61ecca53c1ec31e_20251202113154099.jpg" />
 	</programme>
 	<programme channel="Ch.967" start="20260114130000 +0900" stop="20260114150000 +0900">
 		<title>★俺の義母はいつでもヤレるオナホール！家庭崩壊肉欲セックス！</title>
@@ -140610,11 +139165,6 @@
 		<title>★【マドンナ】こんなスケベな奥さんに誘われたら！！極上美人妻と逆レ●プ４時間</title>
 		<desc />
 		<icon src="https://pm-img-ap.skyperfectv.co.jp/uploads/thumbnail_origin/image/44810/L_32e8f945b0cd4a368058460469c9a7c8_20251202112822847.jpg" />
-	</programme>
-	<programme channel="Ch.599" start="20260114080000 +0900" stop="20260114120000 +0900">
-		<title>【無料放送】世界の景色</title>
-		<desc />
-		<icon src="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/599.gif" />
 	</programme>
 	<programme channel="Ch.599" start="20260114120000 +0900" stop="20260114160000 +0900">
 		<title>【無料放送】世界の景色</title>
